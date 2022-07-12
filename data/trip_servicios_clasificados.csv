@@ -1,0 +1,183 @@
+city,comments,name,prices,quality_price,rating,stars,heredados,acceso/comunicacion,entretenimiento/deporte,ninios,comida/bebida
+Bacalar,17,Hotel ADE,1019,0.0,3.5,0,0,1,0,1,0
+Bacalar,26,Hotel Casa Lima,893,4.5,4.0,0,0,1,0,1,1
+Bacalar,55,El Roble Hotel,589,4.0,4.0,0,0,1,0,0,0
+Bacalar,236,Casa Bakal Hostal,2884,3.0,4.0,0,1,1,1,0,1
+Bacalar,53,Hotel Sun Ha Bacalar,1584,4.0,4.5,2.0,0,1,0,1,1
+Bacalar,62,Bacalar Sunrise Villa Alojamiento,1461,5.0,4.5,0,0,1,1,1,1
+Bacalar,737,Centro Holistico Akalki Spa,7612,4.0,4.5,0,1,1,1,1,1
+Bacalar,99,Amigos Hotelito,1800,4.0,4.0,0,1,1,0,1,1
+Bacalar,122,Casa Lamat,1234,3.5,4.0,0,1,1,0,1,0
+Bacalar,9,Zensus,1566,0.0,5.0,0,0,0,0,0,0
+Bacalar,5,Hotelito K´uyche´ Alojamiento,787,5.0,5.0,0,0,1,0,1,0
+Bacalar,7,El Roble Hotel Nature,1125,4.5,4.0,0,1,0,0,1,0
+Bacalar,4,Cabanas Pucte,2475,0.0,3.5,0,0,0,0,0,0
+Bacalar,3,Casa Árabe Alojamiento,1600,0.0,3.5,0,0,0,0,0,0
+Bacalar,1,Hotel Casa Poblana,908,0.0,5.0,0,0,0,0,0,0
+Bacalar,26,VILLA COLIBRÍ BACALAR Posada,4747,2.0,3.5,0,0,1,1,1,1
+Bacalar,4,Royal Palm Bacalar Cabanas & Lagoon Club Posada,1250,0.0,3.5,0,0,0,0,0,0
+Bacalar,3,Poza Clara Sanctuary Hotel,1499,0.0,4.5,0,0,0,0,1,0
+Bacalar,23,Hotel Boutique Aurea Alojamiento,2900,0.0,5.0,0,1,1,1,0,1
+Bacalar,33,Agam Hotel Bacalar,1689,4.5,5.0,0,0,1,1,1,1
+Bacalar,55,Azul 36 Hotel,1744,2.0,4.0,0,0,1,1,1,0
+Bacalar,128,Hotel Hacienda Bacalar,950,4.0,3.5,3.0,0,1,1,1,0
+Bacalar,197,Hostal & Suites Pata de Perro,562,4.5,4.5,0,0,1,0,1,1
+Bacalar,113,Villas Bakalar Hotel,2045,4.0,4.0,5.0,0,1,1,0,1
+Bacalar,15,Casa Delia Hotel,1050,4.5,4.5,0,0,0,0,1,0
+Bacalar,363,Hotel & Suites Oasis Bacalar,1691,5.0,5.0,0,0,1,1,1,1
+Bacalar,4,Aldea Che-eek,1250,0.0,5.0,0,0,0,0,0,0
+Bacalar,0,Casa La Joya Bacalar Hotel,1650,0.0,,0,0,0,0,0,0
+Bacalar,6,Stone Aparments,1114,0.0,3.0,0,0,0,0,1,0
+Bacalar,12,Pancho Villas,1820,0.0,3.5,0,0,0,0,1,0
+Bacalar,4,Tropic Bacalar,1900,0.0,4.0,0,0,0,0,0,0
+Bacalar,7,OYO Hotel Casa Ariana Alojamiento,720,0.0,4.5,0,0,0,0,0,0
+Bacalar,441,Casa Chukum - Hotel Boutique,2300,5.0,5.0,0,0,1,1,1,1
+Bacalar,25,Casa Zazil Villa vacacional,1355,4.0,5.0,0,0,1,1,1,1
+Bacalar,24,Casa Hormiga Hotel,3642,0.0,4.5,0,1,1,1,1,1
+Bacalar,7,Hotel Henry Inn,799,5.0,5.0,0,0,0,0,0,0
+Bacalar,139,Toto Blue Hotel Boutique,2140,3.5,4.0,3.5,0,1,1,1,1
+Bacalar,87,Hotel Tuparenda Bacalar Hotel especializado,1400,4.5,4.5,0,0,1,1,1,1
+Bacalar,14,La Kinta Hotel,1289,0.0,5.0,0,0,1,1,1,1
+Bacalar,30,Blue Palm Bacalar,2808,5.0,5.0,0,1,1,1,0,1
+Bacalar,262,Cabanas Hostal Y Camping & Marina Magic Bacalar,1533,4.5,4.0,1.0,1,1,1,1,1
+Bacalar,4,Stone Hotel-Apartments,1575,0.0,4.0,0,0,0,0,1,0
+Bacalar,94,Posada LULÚ La Bruja Hostal,800,3.5,4.0,0,1,1,1,1,1
+Bacalar,11,Casa Bizu B & B,1080,0.0,3.5,0,0,1,0,0,0
+Bacalar,2,Papitos Bacalar,960,0.0,4.0,0,0,0,0,0,0
+Bacalar,1,Hotel Circulo Bacalar,2500,0.0,5.0,0,0,0,0,0,0
+Bacalar,13,Hotel Pancho Villas Bacalar,1850,0.0,3.5,0,1,1,0,1,1
+Bacalar,0,Hotel Catedral,900,0.0,,0,0,0,0,0,0
+Bacalar,0,Tropic Bacalar Hotel,1572,0.0,,0,0,0,0,0,0
+Bacalar,3,OYO Hotel Seyba Bakalar,3000,0.0,1.5,0,0,0,0,0,0
+Bacalar,0,Isel Magic Hotel,1000,0.0,,0,0,0,0,0,0
+Bacalar,0,Las Palmas,600,0.0,,0,0,0,0,0,0
+Bacalar,0,Blue Hotel,600,0.0,,0,0,0,0,1,0
+Bacalar,6,XO Hotel Bacalar,1358,0.0,3.0,0,0,0,0,0,0
+Bacalar,0,Mayanah Condo Hotel,6995,0.0,,0,0,0,0,0,0
+Ciudad del Carmen,354,Fiesta Inn Ciudad del Carmen Hotel,1158,4.0,4.0,3.0,0,1,1,1,1
+Ciudad del Carmen,285,City Express Ciudad del Carmen Hotel,996,4.0,4.0,4.0,0,1,1,1,1
+Ciudad del Carmen,225,City Express Junior Ciudad del Carmen Aeropuerto Hotel,933,4.5,4.0,3.0,0,1,1,1,1
+Ciudad del Carmen,299,One Ciudad Del Carmen Concordia Hotel,912,4.0,4.0,3.0,0,1,1,0,1
+Ciudad del Carmen,490,City Express Junior Ciudad Del Carmen Hotel,893,4.5,4.0,3.0,0,1,1,1,1
+Ciudad del Carmen,439,Hampton Inn Ciudad del Carmen Campeche Hotel,1049,4.5,4.5,3.0,0,1,1,1,1
+Ciudad del Carmen,109,Hotel Extended Suites Ciudad del Carmen Aeropuerto Hotel especializado,831,4.5,4.5,3.0,0,1,1,1,1
+Ciudad del Carmen,322,Fiesta Inn & Loft Ciudad del Carmen Hotel,1126,4.5,4.0,3.0,0,1,1,1,0
+Ciudad del Carmen,59,Holiday Inn Express Cd. del Carmen Hotel,901,3.5,4.0,3.0,0,1,1,1,1
+Ciudad del Carmen,115,Holiday Inn Ciudad del Carmen Hotel,1200,3.5,4.0,3.0,0,1,1,1,1
+Ciudad del Carmen,59,Hotel Hacienda Real,1100,4.0,3.5,3.5,0,1,1,1,1
+Ciudad del Carmen,17,Azul Hotel & Restaurante,610,3.5,4.0,3.0,1,1,0,1,1
+Ciudad del Carmen,360,Hyatt Place Ciudad del Carmen Hotel,1199,4.5,4.5,3.0,0,1,1,1,1
+Hoteles en Puerto Vallarta,4583,Velas Vallarta Resort (todo incluido),6970,4.5,4.5,4.0,1,1,1,1,1
+Hoteles en Puerto Vallarta,2060,Casa Velas Resort (todo incluido),12377,4.5,5.0,4.0,0,1,1,0,1
+Isla Mujeres,23,Posada Paso Del Sol Hostal especializado,644,4.0,4.0,0,0,1,0,1,1
+Isla Mujeres,94,Hotel Kinich,1890,4.5,4.5,3.0,0,1,0,0,1
+Isla Mujeres,131,Hotel Isleño,1546,4.5,4.0,3.0,0,1,1,1,1
+Isla Mujeres,286,Hotel Xbulu-Ha,1269,4.5,4.0,2.0,0,1,1,0,1
+Isla Mujeres,1019,Na Balam Beach Hotel,3048,3.5,3.5,3.5,1,1,1,0,1
+Isla Mujeres,17,casa azul maya Apartamento,1501,5.0,4.5,0,0,1,1,1,1
+Isla Mujeres,175,Francis Arlene Hotel,1575,4.0,3.5,2.0,0,1,1,0,1
+Loreto,34,Bugambilias Suites Hotel,1507,5.0,5.0,2.5,0,1,0,1,1
+Loreto,587,Hotel Santa Fe Loreto By Villa Group,1679,4.5,4.5,3.0,0,1,1,1,1
+Loreto,172,Hotel Tripui Resort,1592,4.5,4.5,3.0,0,1,1,1,1
+Loreto,1002,Hotel La Misión Loreto,3212,4.5,4.5,3.5,1,1,1,1,1
+Loreto,814,Loreto Bay Golf Resort & Spa at Baja Hotel,1940,4.0,3.5,4.5,1,1,1,1,1
+Loreto,219,Hotel Oasis,2521,3.5,3.5,3.0,1,1,1,1,1
+Loreto,142,Posada del Cortes Hotel,2389,4.5,4.5,2.0,0,1,1,1,1
+Loreto,60,Hotel Angra,1016,4.5,4.5,2.5,0,1,0,0,1
+Loreto,77,Hotel 1697 Loreto,2319,4.5,4.5,3.0,0,1,1,0,1
+Loreto,97,Hacienda Suites Hotel,1720,4.0,3.5,3.0,0,1,1,1,1
+Loreto,181,Posada de las Flores Loreto Hotel,2480,3.5,4.0,4.0,1,1,1,0,1
+Los Cabos,1185,Grand Velas Los Cabos Resort (todo incluido),24529,4.5,5.0,5.0,1,1,1,1,1
+Mazunte,25,Cabañas Telayú,840,4.0,3.5,0,0,0,1,1,0
+Mazunte,24,Casa Mazunte Tierra Viva Casa de campo,785,5.0,4.5,2.0,1,1,0,1,1
+Mazunte,164,ZOA Hotel,6773,4.5,4.5,4.5,1,1,1,0,1
+Mazunte,107,Casa Mermejita Villa vacacional,2250,4.5,4.5,3.0,1,1,1,1,1
+Mérida,311,Casa Italia Luxury Guest House Hotel boutique,1062,4.5,4.5,4.0,0,1,1,0,1
+Mérida,662,Hampton Inn by Hilton Merida Hotel,1328,4.5,4.5,3.0,0,1,1,1,1
+Poza Rica,71,Rio Vista Inn Hotel,1155,5.0,4.5,4.0,0,1,1,1,1
+Poza Rica,181,La Quinta by Wyndham Poza Rica Hotel,995,4.5,4.0,3.5,0,1,1,1,1
+Riviera Maya,81,Joy Tulum Hotel boutique,580,4.5,4.5,2.5,0,1,1,0,1
+Riviera Maya,365,Villa Las Estrellas Hotel,3677,4.0,4.5,4.0,1,1,1,1,1
+Riviera Maya,874,Nômade Tulum Resort,11465,4.0,4.0,4.0,1,1,1,0,1
+Riviera Maya,442,Maya Tulum Resort,3926,4.0,4.0,3.5,1,1,1,0,1
+Riviera Maya,348,Posada Lamar Hotel,4175,4.0,4.5,0,1,1,0,0,1
+Riviera Maya,338,El Paraiso Hotel Tulum,4372,4.0,4.0,3.5,1,1,1,0,1
+Riviera Maya,68,Era Hotel Tulum & Spa,3184,4.5,4.5,3.0,0,1,1,1,1
+Riviera Maya,46,Casa Agape Hotel Boutique & Beach Club,3514,5.0,5.0,0,0,1,1,0,1
+Riviera Maya,304,Habitas Tulum Hotel,8168,4.0,4.0,0,1,1,1,0,1
+Riviera Maya,429,Hotel Posada 06 Tulum,2379,4.0,4.5,3.0,0,1,1,0,1
+Riviera Maya,328,XscapeTulum Hotel,1472,4.5,4.0,3.0,0,1,1,1,1
+Riviera Maya,285,Pacha Tulum Hotel,1223,4.5,4.5,3.0,0,1,1,1,1
+Riviera Maya,403,Latino Hotel Boutique,1427,4.5,4.5,3.0,0,1,1,1,1
+Riviera Maya,118,Casa Santiago Hotel,1784,4.5,4.5,3.5,0,1,1,1,1
+Riviera Maya,81,Niik Tulum Hotel,1417,4.5,5.0,4.0,0,1,1,1,1
+Riviera Maya,83,La Tulumeña Hotel,1933,5.0,5.0,0,0,1,0,0,1
+Riviera Maya,353,Villas De Rosa Beach Resort Apartamento,1875,4.0,4.5,3.5,1,1,1,0,1
+Riviera Maya,1197,Hip Hotel Tulum,5620,4.0,4.5,3.0,1,1,0,0,1
+Riviera Maya,777,Piedra Escondida Hotel,4237,4.0,4.5,3.0,1,1,0,1,1
+Riviera Maya,1257,Mezzanine Colibri Boutique Hotel,6233,4.5,5.0,4.0,1,1,1,0,1
+Riviera Maya,7753,Dreams Tulum Resort & Spa Resort (todo incluido),30688,4.0,4.0,5.0,1,1,1,1,1
+Riviera Maya,117,Conrad Tulum Riviera Maya Hotel,7351,4.5,4.5,3.0,1,1,1,1,1
+Riviera Maya,2239,Kore Tulum Retreat and Spa Resort,7600,4.0,4.0,5.0,1,1,1,0,1
+Riviera Maya,994,Amansala Eco Chic Resort & Spa,3954,4.0,4.0,3.0,1,1,1,1,1
+Riviera Maya,493,Mereva Tulum by Blue sky Hotel,3993,4.0,4.5,4.0,1,1,1,1,1
+Riviera Maya,602,Casa Malca Hotel,19189,4.0,4.0,4.0,1,1,1,1,1
+Riviera Maya,22,Layla Tulum - Boutique Hotel,7111,5.0,5.0,0,0,1,1,0,1
+Riviera Maya,14,Hotel Hacienda Scarlette,1120,3.5,3.5,2.0,0,0,0,1,1
+Riviera Maya,27,Hostel NIcte-Ha Casa de campo,892,3.0,4.0,2.0,0,1,0,1,1
+Riviera Maya,38,Casa Colonial Vintage Hotel Posada,809,3.0,4.0,3.0,0,1,1,1,1
+Riviera Maya,23,Casa Villa Alquimia Posada,3587,4.0,3.5,0,1,1,1,1,1
+Riviera Maya,21,El Dorado Royale A Spa Resort by Karisma,8377,4.5,4.0,5.0,1,1,1,0,1
+Riviera Maya,11,Suites Tulum,2934,3.0,3.0,0,0,1,1,0,1
+Riviera Maya,21,Ruta Del Sol Hotel,699,0.0,2.5,0,0,1,0,1,1
+Riviera Maya,0,Caliza Tulum Hotel,803,0.0,,0,0,0,0,0,0
+Riviera Maya,0,Kuukum Tulum Hotel,1899,0.0,,0,0,0,0,0,0
+Riviera Maya,0,Amanecer y Manana Private Room - Tulum Town Alojamiento,2141,0.0,,0,0,0,0,0,0
+Riviera Maya,0,Hotel Las Tres Palmas Hostal,1586,0.0,,0,0,0,0,0,0
+Riviera Maya,0,Jade Hotel Tulum,1936,0.0,,0,0,0,0,0,0
+Riviera Maya,0,Casa Colonial Vintage Hotel,899,0.0,,0,0,0,0,0,0
+Riviera Maya,4,El Cielo Hotel Boutique Alojamiento,991,0.0,3.5,0,1,1,1,1,1
+Riviera Maya,39,Ikal Tulum Boutique Hotel,4232,2.5,3.0,0,0,0,0,0,1
+Riviera Maya,64,OYO Hotel Palma Real,380,4.5,3.5,3.0,0,1,1,1,0
+Riviera Maya,130,Kin Ha Tulum Hotel,1374,3.5,3.5,3.0,0,1,0,0,0
+Riviera Maya,14,La Diosa Tulum Posada,4262,0.0,3.5,0,0,0,0,0,1
+Riviera Maya,2,Oryx Hostel,299,0.0,5.0,0,1,1,1,0,1
+Riviera Maya,16,Wakax Hacienda,4401,4.5,5.0,0,0,1,1,1,1
+Riviera Maya,317,Hotel Zulum Villa vacacional,4936,3.0,3.5,3.0,1,1,1,0,1
+Riviera Maya,8,Anah Tulum Apartamento,1673,5.0,4.5,0,1,1,1,1,1
+Riviera Maya,3,Alea Tulum by Blue Sky Hotel,4444,0.0,5.0,0,0,0,0,0,0
+Riviera Maya,18,Hotel ArcoIris,1090,5.0,4.5,0,0,1,1,1,1
+Riviera Maya,18,Tulum Nah Hotel especializado,851,4.5,5.0,3.0,0,1,1,1,1
+Riviera Maya,93,Los Amigos Beach Hotel,8028,4.0,4.0,0,1,1,0,1,1
+Riviera Maya,161,L'Hotelito,1903,4.0,3.5,3.0,0,1,0,0,0
+Riviera Maya,52,Coco Village Hostal especializado,2226,4.5,4.5,0,0,1,1,1,1
+Riviera Maya,4,Hotel Sayab Hostal,1350,0.0,4.5,0,0,1,1,1,1
+Riviera Maya,1,Sunset Bungalows - Budget All Inclusive B & B,600,0.0,1.0,0,0,0,0,0,0
+Riviera Maya,9,Nuée Tulum Posada,1297,0.0,4.0,3.5,0,1,1,0,1
+Riviera Maya,229,Punta Piedra Beach Posada B & B,3300,3.5,4.0,3.0,1,1,1,0,1
+Riviera Maya,110,Harmony Glamping and Boutique Hotel,1189,4.0,4.0,0,1,1,1,0,1
+Riviera Maya,24,Esplendor By Wyndham Tulum Nook Alojamiento,2676,4.5,4.5,4.0,1,1,1,0,1
+Riviera Nayarit,3939,Grand Velas Riviera Nayarit Resort (todo incluido),18037,4.5,5.0,5.0,1,1,1,1,1
+Riviera Nayarit,2632,Villa La Estancia Beach Resort & Spa Riviera Nayarit,9008,4.5,4.5,5.0,1,1,1,1,1
+Riviera Nayarit,4790,Villa del Palmar Flamingos Beach Resort & Spa Hotel,2385,4.5,4.5,4.0,1,1,1,1,1
+Riviera Nayarit,303,Hotel Ysuri Sayulita Hostal especializado,1785,4.5,5.0,0,1,1,1,1,1
+Riviera Nayarit,4153,Marival Distinct Luxury Residences Resort (todo incluido),13234,4.5,4.5,4.5,1,1,1,1,1
+Riviera Nayarit,558,El Pueblito Sayulita Hotel,2100,4.5,5.0,3.5,0,1,1,1,1
+Riviera Nayarit,33,Mar y Suenos B & B,1553,4.5,4.5,0,0,1,1,1,1
+Riviera Nayarit,14,Paraíso Sayulita Alojamiento,2140,5.0,5.0,0,0,1,1,1,1
+Tepic,24,Hotel San Jorge,793,4.0,4.0,3.0,0,1,1,1,1
+Tepic,23,Hotel Tepic,890,4.0,3.5,2.0,0,1,0,1,1
+Tepic,33,Hotel Ejecutivo Tepic,828,3.5,3.0,4.0,0,1,1,1,1
+Tepic,19,Hotel Villa Las Rosas,695,4.0,4.0,4.0,0,1,0,1,1
+Tepic,30,City Express Tepic Hotel,1485,4.5,4.0,3.0,0,1,1,1,1
+Tepic,15,Hotel Sierra de Alica,496,4.0,3.5,0,0,1,1,1,1
+Tepic,808,Hotel Fray Junipero Serra,1213,4.5,4.5,3.5,0,1,1,1,1
+Tepic,247,NK Hotel Nekié Tepic,1035,4.0,4.0,3.5,0,1,1,1,1
+Tepic,483,Fiesta Inn Tepic Hotel,1304,4.5,4.5,3.0,0,1,1,1,1
+Tlapacoyan,139,Aventurec,837,4.5,5.0,0,0,1,1,1,1
+Todos Santos,123,Serendipity B & B,3387,5.0,5.0,5.0,1,1,1,1,1
+Todos Santos,104,La Bohemia Baja Hotel Pequeno,2904,5.0,4.5,3.0,0,1,1,1,1
+Todos Santos,95,Paradero Todos Santos Hotel,12756,4.5,4.5,0,0,1,1,0,1
+Todos Santos,429,Guaycura Boutique Hotel Beach Club & Spa,4477,4.5,4.5,3.5,1,1,1,1,1
+Todos Santos,103,Hacienda Todos Los Santos Hotel,4085,4.5,5.0,5.0,0,1,1,0,1
+Todos Santos,69,Perro Surfero Boutique Hotel B & B,2199,5.0,4.5,0,0,1,1,1,0

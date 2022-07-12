@@ -1,0 +1,616 @@
+city,comments,name,prices,quality_price,rating,stars,heredados,total_heredados,acceso/comunicacion,total_acceso/comunicacion,entretenimiento/deporte,total_entretenimiento/deporte,inclusion,total_inclusion,ninios,total_ninios,comida/bebida,total_comida/bebida
+Bacalar,1.320,Hotel CasaBakal - A pie de Laguna - Bacalar,3871,7.7,8.5,5,1,2,1,3,1,11,0,0,1,1,1,5
+Bacalar,206,Vias Maya Bacalar Hotel,500,8.4,7.9,0,0,0,0,0,0,0,0,0,0,0,0,0
+Bacalar,551,Yaxche Centro Hostal y Camping,414,8.1,7.8,0,0,0,1,2,1,8,0,0,0,0,1,3
+Bacalar,295,Hotel Casa Ariana,720,8.6,8.4,2,0,0,1,1,1,4,0,0,0,0,0,0
+Bacalar,419,Xibalba in town,1200,8.5,8.2,0,0,0,1,2,1,1,0,0,0,0,1,2
+Bacalar,108,Mykonos Hotel,550,8.8,8.3,0,0,0,1,1,1,1,0,0,0,0,0,0
+Bacalar,313,Stone Aparments,1247,8.4,8.4,4,1,1,1,4,1,4,1,1,1,1,0,0
+Bacalar,4,"4, San Fernando, Bacalar Villa Jimmy",1195,8.1,7.8,4,1,1,0,0,0,0,0,0,0,0,0,0
+Bacalar,144,Hotel Seyba Bakalar,960,7.3,7.4,5,0,0,1,2,1,1,0,0,1,1,0,0
+Bacalar,292,La Albarina,5244,7.8,8.8,5,1,3,1,3,1,7,0,0,0,0,1,6
+Bacalar,27,Jungla Bacalar/ Casa Jaguar,824,9.3,8.9,0,0,0,1,1,0,0,0,0,1,1,1,1
+Bacalar,3,Almendrita II,630,10,9.7,0,0,0,0,0,1,4,0,0,0,0,1,2
+Bacalar,46,The Bacalar Collection: Lagoon House,2782,9.6,9.8,3,1,1,1,1,0,0,0,0,0,0,0,0
+Bacalar,199,Casa CheJum Bacalar,864,9.2,9.0,0,0,0,1,4,1,3,1,3,1,1,1,1
+Bacalar,193,Hostal y Camping Las G,212,7.9,7.0,0,0,0,0,0,0,0,0,0,1,2,1,4
+Bacalar,9,Villas Chital Bacalar,972,6.9,6.9,3,0,0,0,0,1,1,0,0,0,0,0,0
+Bacalar,130,Casa & Beach Club Yunuem,900,7.2,7.4,0,1,1,1,2,1,2,0,0,1,1,1,2
+Bacalar,138,Casa Coral,550,9.5,9.3,3,0,0,1,3,1,1,0,0,1,1,1,4
+Bacalar,3,PRIVATE HOUSE Bacalar Lagoon TOP Location,2915,10,10.0,3,1,1,1,1,0,0,0,0,0,0,0,0
+Bacalar,45,Zensus Eco Boutique Hotel,1618,9.7,9.6,0,0,0,1,3,1,2,0,0,1,1,1,1
+Bacalar,70,Hotel Circulo Bacalar,2500,8.4,8.9,4,0,0,1,5,1,5,0,0,1,1,1,3
+Bacalar,163,Blue Hotel,600,8.7,8.6,0,1,1,1,6,1,6,1,4,1,1,1,1
+Bacalar,132,Asilé Hotel Boutique,1200,8.1,8.1,0,0,0,1,6,1,12,1,2,1,1,1,3
+Bacalar,87,Casa Árabe,1377,7.5,8.2,0,1,2,1,8,1,10,0,0,1,2,1,5
+Bacalar,134,Cabanas Luxury,2575,6.8,7.4,0,0,0,1,1,1,4,0,0,1,1,1,5
+Bacalar,14,Cabañas La Fortuna Bacalar,1036,8.8,8.2,0,0,0,1,4,0,0,0,0,0,0,0,0
+Bacalar,496,Hotel Awazul Bacalar,899,6.7,6.9,0,1,1,1,3,1,7,0,0,1,1,1,1
+Bacalar,94,Hotel Makech,1100,8.4,8.3,3,0,0,0,0,1,3,0,0,1,1,0,0
+Bacalar,193,Hotel Pancho Villas Bacalar,1862,7.9,8.0,4,0,0,1,4,1,3,0,0,1,1,1,3
+Bacalar,4,Xoot Ka’Ana Villa Corazón,4184,5.6,6.5,0,0,0,1,4,1,1,0,0,1,2,1,3
+Bacalar,4,Cabaña Sofía Bacalar,3012,9.4,9.7,4,1,1,1,1,1,1,0,0,0,0,1,1
+Bacalar,76,Cabañas MR,600,9.1,8.9,0,0,0,0,0,1,5,0,0,0,0,1,1
+Bacalar,16,Casa Akasha Bacalar,1345,7.7,7.8,3,0,0,1,3,1,2,0,0,0,0,0,0
+Bacalar,4,Departamento Sueñitos en Bacalar Lock Off,807,10,10.0,0,0,0,1,4,1,3,0,0,1,1,1,2
+Bacalar,475,Hotel Vista Laguna Bacalar,1100,7.4,7.6,0,1,2,1,2,1,2,0,0,1,2,0,0
+Bacalar,75,Mayanah Bacalar,1518,8.4,8.4,4,0,0,1,2,1,10,0,0,1,2,1,7
+Bacalar,389,Amigos Hotelito,1800,8.7,9.0,3,1,3,1,1,1,6,0,0,1,1,1,1
+Bacalar,171,Hotel Henry Bacalar,799,9.3,9.1,0,0,0,1,1,1,2,0,0,1,2,1,1
+Bacalar,423,Villa Marilu B&B,2660,8.9,9.5,4,1,2,1,5,1,5,0,0,0,0,1,2
+Bacalar,47,Navieros Rooms Bacalar,714,7.9,7.8,0,0,0,1,1,1,4,0,0,1,1,0,0
+Bacalar,1.339,The Yak Lake House - Hostal,2167,7.8,8.6,0,1,3,1,1,1,5,0,0,0,0,1,2
+Bacalar,166,Habitas Bacalar,5977,8.8,9.5,5,1,1,1,2,1,1,0,0,0,0,1,1
+Bacalar,232,Delmar Hostal,380,9.1,8.9,0,0,0,1,2,1,2,0,0,0,0,1,4
+Bacalar,690,Agam Hotel,1722,8.9,9.0,0,0,0,1,7,1,5,0,0,0,0,1,3
+Bacalar,308,Royal Palm Bacalar Cabañas & Lagoon Club,2808,8.2,8.6,5,1,1,1,1,1,6,1,1,1,2,0,0
+Bacalar,60,Toto Blue Hotel Boutique,2177,7.1,7.4,4,0,0,1,5,1,9,1,1,1,1,1,4
+Bacalar,116,Pucté 13,2475,8.8,9.2,0,1,3,1,7,1,2,0,0,1,1,1,1
+Bacalar,402,Villas Karalv,900,9.0,8.7,3,1,2,1,1,1,5,0,0,1,2,1,3
+Bacalar,427,Szapot,695,8.5,8.3,0,0,0,0,0,0,0,0,0,1,1,0,0
+Bacalar,390,Hotel Rancho Encantado,5344,8.5,9.1,0,1,2,1,5,1,5,0,0,1,3,1,4
+Bacalar,309,Casa EEK BALAAM,770,8.0,7.7,0,0,0,1,4,1,1,0,0,1,1,1,4
+Bacalar,184,isel magic hotel,850,8.5,8.1,3,0,0,1,1,1,5,0,0,1,1,1,1
+Bacalar,24,SoÍ Bacalar,648,8.1,8.0,3,0,0,1,6,1,3,0,0,1,1,1,4
+Bacalar,254,Hospedaje Casa Poblana,755,9.2,9.0,2,0,0,1,5,1,9,0,0,1,1,1,2
+Bacalar,281,El Roble Nature Hotel & Lagoon,1125,8.2,8.5,0,1,2,1,1,1,3,0,0,1,1,1,3
+Bacalar,67,teki-sha home&suites,1066,9.9,9.7,3,0,0,1,2,1,2,0,0,1,1,1,2
+Bacalar,9,Bleibe- Quédate!,2500,9.4,9.4,3,1,3,1,6,1,4,0,0,1,2,1,2
+Bacalar,63,Private Bungalow @ Bacalar 7 Colors Lagoon,2915,8.4,9.0,3,1,1,1,1,0,0,0,0,0,0,0,0
+Bacalar,7,MIA BACALAR POOL BIKES & KAYAKS @ 7 COLOR LAGOON,1578,8.2,8.4,4,0,0,1,4,1,1,0,0,1,2,0,0
+Bacalar,419,Cabañas Hostal & Camping Magic Bacalar,1700,7.8,8.1,0,1,2,1,1,1,5,0,0,1,1,1,2
+Bacalar,204,Xcabal Hotel boutique,1852,8.6,8.9,3,1,1,1,1,1,6,0,0,0,0,1,4
+Bacalar,134,La Kinta Hotel,1580,8.6,8.3,0,0,0,1,3,1,9,1,1,1,2,1,4
+Bacalar,3,Xoot Kaana Villa Vista Laguna,5738,5.8,6.0,0,1,3,1,2,0,0,0,0,1,1,1,1
+Bacalar,11,Departamentos Maculi,1067,7.5,7.7,3,1,1,0,0,1,3,0,0,1,1,1,2
+Bacalar,678,La Galuna Bacalar,2376,8.6,8.5,4,0,0,1,3,1,3,0,0,1,3,1,1
+Bacalar,379,Seven Blue House Village & Lodge,1106,8.1,8.1,0,1,2,1,6,1,4,0,0,1,1,1,1
+Bacalar,674,Azul 36 Hotel,1363,8.0,8.2,0,0,0,1,2,1,4,0,0,1,1,0,0
+Bacalar,995,Ecocamping Yaxche,625,8.0,7.9,0,1,2,1,5,1,9,0,0,1,2,1,6
+Bacalar,112,Villa Akbal,558,9.6,9.0,3,0,0,1,1,1,5,0,0,0,0,1,2
+Bacalar,340,Ade Hotel Bacalar,1247,8.3,8.1,3,0,0,1,6,1,11,1,1,1,1,1,3
+Bacalar,152,Mia Bacalar Luxury Resort & Spa,5761,7.3,8.4,5,1,3,1,4,1,5,0,0,1,2,1,1
+Bacalar,5,CASA MR CENTRO,1250,8.5,8.6,0,0,0,0,0,1,3,0,0,1,1,1,2
+Bacalar,7,Papitos Bacalar Hotel and Marina,960,2.9,2.1,0,0,0,1,4,1,7,0,0,1,1,1,2
+Bacalar,200,Poza Clara Sanctuary,1402,8.5,8.7,0,0,0,1,2,1,7,1,1,1,4,1,3
+Bacalar,636,MBH Maya Bacalar Hotel Boutique,4817,7.8,8.4,4,0,0,1,1,1,8,1,1,1,2,1,4
+Bacalar,4,"Departamento amueblado céntrico, muy confortable, accesible y con AA",578,8.1,8.5,3,0,0,1,2,1,3,0,0,1,1,1,2
+Bacalar,369,BOA BOA Bacalar,2458,8.3,8.7,3,1,3,1,3,1,1,0,0,0,0,1,2
+Bacalar,212,Khaban Bacalar Hotel Boutique,5179,8.4,8.9,4,1,3,1,1,1,5,0,0,1,2,1,2
+Bacalar,213,Casa Bizu,1080,8.2,8.7,3,0,0,1,1,1,6,0,0,1,2,1,5
+Bacalar,127,AMACA Bacalar,2500,8.8,8.8,0,1,3,1,1,1,5,0,0,0,0,1,1
+Bacalar,392,Hostal & Suites Pata de Perro,614,8.0,8.1,0,0,0,1,2,1,1,0,0,1,1,1,1
+Bacalar,4,Casa Caracol Lagoon,2000,8.1,8.3,0,1,2,1,2,1,1,0,0,1,2,1,1
+Bacalar,458,Blue Palm Bacalar,2522,9.4,9.6,5,0,0,1,3,1,12,0,0,0,0,1,1
+Bacalar,41,LAGOON SPECIAL Suite: Bikes & Kayaks!,2650,9.6,9.8,3,1,1,1,1,0,0,0,0,0,0,0,0
+Bacalar,337,Hotelito Kuyche,811,9.5,9.1,0,0,0,0,0,1,3,1,1,1,1,1,1
+Bacalar,147,Mecate Bacalar Hotel Boutique,686,7.3,7.3,0,0,0,1,6,1,10,1,3,1,2,1,3
+Bacalar,11,Hotel Casa las Bugambilias,1047,7.5,6.7,0,0,0,1,1,0,0,0,0,1,1,1,1
+Bacalar,15,Casa baklahar frente a Laguna,916,6.8,6.5,0,1,3,1,1,1,1,0,0,1,1,0,0
+Bacalar,21,Cabañas Colibrí,1138,7.3,7.0,3,0,0,1,1,1,1,0,0,1,2,0,0
+Bacalar,14,HOTEL CANTO,750,7.9,7.7,3,0,0,1,1,1,5,0,0,1,2,0,0
+Bacalar,547,Hotel Maria Maria,1200,8.8,9.0,0,0,0,1,1,1,4,0,0,1,1,1,2
+Bacalar,349,Hotel Hacienda Bacalar,950,7.9,7.7,3,0,0,1,1,1,1,0,0,1,2,0,0
+Bacalar,128,Siyan Ka'an Bak'halal,700,8.4,8.5,0,0,0,1,3,1,5,0,0,0,0,1,1
+Bacalar,1.084,Villas Ecotucan,1436,8.6,8.7,3,1,2,1,2,1,7,0,0,1,1,0,0
+Bacalar,208,Posada Antonia Bacalar,629,8.7,8.4,3,0,0,0,0,1,2,0,0,1,1,0,0
+Bacalar,43,Hotel Margarita Bacalar,844,8.3,7.6,0,1,1,1,2,1,3,0,0,1,2,1,2
+Bacalar,4,Nao Suite,2421,8.1,9.2,0,1,2,1,1,0,0,0,0,0,0,0,0
+Bacalar,10,XO Hotel Bacalar Lakefront - All Inclusive,2745,7.2,7.1,3,1,2,1,6,1,7,0,0,1,3,1,7
+Bacalar,158,Posada Casa Madrid,697,8.5,8.4,3,0,0,1,4,1,6,0,0,1,2,0,0
+Bacalar,542,El Roble Hotel,591,8.7,8.6,0,0,0,1,3,1,3,1,2,1,1,1,1
+Bacalar,93,Hotel Xa´an Bacalar,932,8.9,9.0,2,0,0,1,1,1,2,0,0,1,2,0,0
+Bacalar,675,Gran Jaguar Hotel,885,9.6,9.4,3,0,0,1,1,1,5,0,0,0,0,1,1
+Bacalar,32,Cabañas Alma Verde,542,9.7,9.5,3,0,0,0,0,1,2,0,0,0,0,1,2
+Bacalar,4,Xoot Ka’Ana Villa las Estrellas,3745,10,9.5,0,1,1,1,2,0,0,0,0,0,0,1,1
+Bacalar,46,M&E,550,9.6,9.3,0,0,0,0,0,1,1,0,0,1,1,0,0
+Bacalar,157,Hotel Maalob Che Bacalar By Rotamundos,686,8.3,8.2,4,0,0,1,2,0,0,0,0,0,0,0,0
+Bacalar,115,Aldea Che-eek,1600,8.3,7.9,0,1,1,1,1,1,2,1,1,1,1,1,1
+Bacalar,8,Xoot Ka’Ana Villa Sensación,3974,8.4,8.9,0,1,2,1,2,1,1,0,0,1,2,1,3
+Bacalar,114,Hotel Pejelagarto,1378,8.7,8.5,3,0,0,1,2,1,2,0,0,1,2,1,1
+Bacalar,69,Mayanah Condohotel Bacalar By Rotamundos,1489,7.8,7.7,4,0,0,1,6,1,2,0,0,1,2,1,4
+Bacalar,4,D´LUXURY BAKALAR,810,8.1,8.2,0,0,0,1,3,1,5,0,0,1,1,1,1
+Bacalar,108,Estancia Lapislázuli,700,9.4,9.0,0,0,0,1,1,1,1,1,3,0,0,0,0
+Bacalar,245,Hotel Casa Corazón,977,6.6,6.9,0,0,0,1,2,1,2,0,0,1,1,0,0
+Bacalar,9,"Casa Venado, By Jungla Bacalar",1260,9.4,8.8,3,0,0,1,1,1,2,1,2,1,2,1,4
+Bacalar,13,Nocturna Loft,1211,7.9,7.4,0,0,0,1,1,1,4,0,0,1,1,1,1
+Bacalar,212,Bacalar mayan caribe,638,8.6,8.1,3,0,0,0,0,1,2,1,2,0,0,1,2
+Bacalar,566,Urban Bacalar Hotel by MIJ,932,7.6,7.6,4,0,0,1,2,1,4,0,0,1,1,0,0
+Bacalar,189,Las Nubes by MIJ,2075,7.4,7.7,4,1,2,1,3,1,4,0,0,1,1,1,2
+Bacalar,416,Hotel & Suites Oasis Bacalar,1570,8.9,9.1,0,0,0,1,3,1,5,1,3,1,2,1,1
+Bacalar,599,Casa Shiva Bacalar by MIJ,1558,7.9,8.5,4,0,0,1,1,1,1,1,1,1,1,1,2
+Bacalar,171,Hotel Aldea 19 Bacalar,2975,8.8,9.0,3,0,0,1,1,1,2,0,0,0,0,1,1
+Bacalar,57,Casa Bonzay Bacalar,606,9.7,9.6,0,0,0,0,0,1,5,1,1,1,3,1,3
+Bacalar,108,Posada El Refugio,558,5.2,4.8,0,0,0,1,2,0,0,0,0,1,1,1,2
+Bacalar,367,Blue Bird,2964,7.9,8.7,0,1,2,1,1,1,4,0,0,1,1,1,4
+Bacalar,135,Cabañas Las Palmas,550,8.4,8.0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Compostela,3,Hostalito La Vista de Compostela,807,8.3,8.7,0,0,0,1,2,0,0,0,0,1,1,1,2
+Compostela,64,JARDIN DE ESTRELLAS,850,9.3,9.4,4,0,0,1,2,1,9,0,0,1,3,1,4
+Isla Aguada,235,"Freedom Shores ""La Gringa"" Hotel - Universally Designed",990,7.7,8.0,3,1,2,1,3,1,2,1,1,1,2,1,6
+Isla Mujeres,82,Casa Wandy,1019,7.6,7.4,3,0,0,0,0,1,2,0,0,0,0,1,3
+Isla Mujeres,320,Casa Azul Maya,2375,9.0,9.0,3,0,0,1,7,1,13,1,3,1,3,1,3
+Isla Mujeres,229,Hotel Plaza Almendros,1116,7.6,7.5,3,0,0,1,4,1,6,0,0,0,0,1,3
+Isla Mujeres,640,Hotel La Joya Isla Mujeres,2590,8.7,9.0,4,1,3,1,3,1,7,0,0,1,1,1,5
+Isla Mujeres,233,Hotel Secreto,4306,8.8,9.3,5,1,3,1,2,1,5,1,1,1,1,0,0
+Isla Mujeres,9,Sayil Hotel Boutique,952,8.1,6.8,0,0,0,1,7,1,3,0,0,1,1,1,1
+Isla Mujeres,87,Casitas Arcoiris,1295,7.5,7.9,3,1,1,1,4,1,1,0,0,0,0,1,3
+Isla Mujeres,14,Habitación Amanecer Turquesa #6,1594,9.1,9.1,0,1,1,0,0,1,1,0,0,0,0,0,0
+Isla Mujeres,141,Hotel Paradise Suites,2850,7.5,7.9,4,0,0,1,2,1,8,0,0,0,0,1,2
+Isla Mujeres,5,"Fifth Element House, Earth! Lujoso y Confortable Hogar Isleño!",2351,8.5,8.6,0,1,1,1,1,1,3,1,1,0,0,1,1
+Isla Mujeres,80,La Famiglia,1165,7.4,7.2,0,0,0,1,3,1,4,0,0,1,1,0,0
+Isla Mujeres,483,Bahia Chac Chi - Adults Only,1709,8.0,8.0,4,1,1,1,4,1,8,1,2,1,1,1,2
+Isla Mujeres,41,Casa de la paz,1084,8.6,8.3,3,1,1,1,2,1,9,0,0,1,2,1,7
+Isla Mujeres,154,Sol Caribe,1248,8.1,7.9,3,0,0,0,0,1,4,0,0,0,0,0,0
+Isla Mujeres,233,Icaco Island Village - Adults Only,2869,7.8,8.4,4,1,1,1,7,1,11,0,0,0,0,1,6
+Isla Mujeres,625,Ocean Drive Hotel,986,7.3,7.3,0,0,0,1,6,1,2,1,2,1,2,1,1
+Isla Mujeres,91,Casa del Jaguar Beach Hotel,7545,7.7,8.4,5,1,2,1,6,1,8,0,0,1,1,1,5
+Isla Mujeres,375,"El Malecon, Central Mini Apartments",800,7.9,7.8,3,0,0,0,0,1,5,1,2,1,2,1,1
+Isla Mujeres,49,Maria's Kan Kin,2712,7.0,7.6,3,1,2,1,2,1,11,1,1,1,2,1,4
+Isla Mujeres,1.091,Isla Caracol,1338,8.2,8.1,3,0,0,1,2,1,2,0,0,1,1,0,0
+Isla Mujeres,467,Itzé Hostel,888,8.3,8.2,0,1,1,1,1,0,0,0,0,1,1,1,1
+Isla Mujeres,132,Casa de los Sueños Hotel Boutique,3492,8.7,9.0,5,0,0,1,6,1,11,0,0,1,2,1,2
+Isla Mujeres,224,Suites Los Arcos,1305,8.6,8.5,3,0,0,0,0,1,3,0,0,1,1,1,1
+Isla Mujeres,20,Casa Alkimia Oceanfront,4981,10,10.0,4,1,3,1,2,1,4,0,0,1,2,1,1
+Isla Mujeres,589,Suites Lorens,1291,8.5,8.4,3,1,1,1,5,1,7,0,0,0,0,1,4
+Isla Mujeres,274,Villas Coco Resort - All Suites,1306,8.5,8.4,3,0,0,1,5,1,2,0,0,0,0,1,1
+Isla Mujeres,384,Hotel Boutique Kinich,1890,8.3,8.2,4,0,0,1,2,1,5,0,0,0,0,1,2
+Isla Mujeres,363,Mia Reef Isla Mujeres Cancun All Inclusive Resort,10726,7.6,8.3,4,1,2,1,5,1,7,1,3,1,2,1,3
+Isla Mujeres,267,Hotel D Gomar,900,8.0,7.9,3,1,1,1,3,1,5,0,0,0,0,1,2
+Isla Mujeres,97,Hotel Isleño,1683,7.8,8.0,3,0,0,1,3,1,6,0,0,1,2,1,1
+Isla Mujeres,70,Casa Coco by Coco B Isla,6275,8.9,9.4,0,1,3,1,4,1,4,0,0,1,1,1,1
+Isla Mujeres,48,Kay Apartments,1500,8.9,8.8,3,1,1,1,1,1,9,0,0,0,0,1,2
+Isla Mujeres,335,Suite Isla Mujeres,1291,8.9,8.7,4,1,1,1,1,1,5,0,0,1,1,1,4
+Isla Mujeres,573,Hotel Playa La Media Luna,2689,7.5,7.9,4,1,4,1,7,1,7,0,0,1,1,1,2
+Isla Mujeres,37,Hotel Marcianito,896,7.0,6.9,2,0,0,1,1,1,3,0,0,1,1,0,0
+Isla Mujeres,247,Hotel Francis Arlene Adults Only,1575,7.9,7.9,3,1,1,1,1,1,5,0,0,0,0,0,0
+Isla Mujeres,644,Privilege Aluxes Adults Only,5294,8.0,8.6,5,1,3,1,10,1,13,1,1,0,0,1,5
+Isla Mujeres,124,Hotel Boutique Skulls Landing,1515,8.1,7.8,3,0,0,1,5,1,2,0,0,0,0,1,3
+Isla Mujeres,140,Nautibeach Beach Front Condos in North Beach,4164,8.8,9.1,3,1,3,1,2,1,4,0,0,1,1,1,1
+Isla Mujeres,315,Hotel Berny,1445,7.7,7.8,3,0,0,1,5,1,8,1,1,0,0,1,4
+Isla Mujeres,462,Cuxos Hotel Beachfront,1796,7.6,7.7,4,1,2,1,3,1,5,1,3,1,1,1,3
+Isla Mujeres,499,Hotel Beló Isla Mujeres,3254,7.9,8.1,5,1,2,1,7,1,6,1,1,1,2,1,2
+Isla Mujeres,299,Rocamar Hotel Isla Mujeres,1594,7.6,7.6,2,1,1,1,3,1,6,0,0,1,1,0,0
+Isla Mujeres,665,Selina Poc Na Isla Mujeres,1785,7.0,7.6,3,1,1,1,1,1,6,0,0,0,0,1,2
+Isla Mujeres,393,Hotel Bucaneros Isla Mujeres,1373,8.1,8.2,3,0,0,1,4,0,0,0,0,1,1,1,1
+Isla Mujeres,1.138,Izla Beach Front Hotel,4225,8.6,8.8,5,1,2,1,4,1,4,1,1,0,0,1,3
+Isla Mujeres,295,Cabanas Maria Del Mar,2052,7.1,7.2,3,1,3,1,3,1,6,0,0,1,1,1,1
+Isla Mujeres,1.203,Les trois singes - Friendly Hostel,1445,7.9,7.8,0,0,0,1,1,1,5,0,0,0,0,1,2
+Isla Mujeres,210,Imperla Hotel,1985,9.1,9.2,3,0,0,1,3,1,6,0,0,0,0,1,1
+Isla Mujeres,529,Hotel Posada del Mar,2344,6.9,7.0,3,1,1,1,1,1,6,1,1,1,2,1,1
+Isla Mujeres,464,Casa Barco Hotel Boutique,1805,9.3,9.3,0,0,0,1,2,1,5,0,0,1,2,1,2
+Isla Mujeres,325,Posada Paso Del Sol,714,8.8,8.7,0,0,0,0,0,1,4,0,0,0,0,1,1
+Isla Mujeres,54,Xbulu-Ha,1148,8.0,8.2,2,0,0,1,1,1,5,0,0,1,1,1,1
+Isla Mujeres,362,Na Balam Hotel,3451,7.6,8.2,4,0,0,1,5,1,7,1,1,1,2,1,2
+Isla Mujeres,3.573,Nomads Hotel & Beachclub,2887,8.6,8.8,3,1,2,1,2,1,11,0,0,0,0,1,5
+Isla Mujeres,136,Hotel Ma Elena,800,8.0,7.7,0,1,1,1,1,1,3,0,0,1,1,0,0
+Isla Mujeres,364,Hotel Villa Kiin,2490,7.3,7.4,3,1,4,1,4,1,8,0,0,1,2,0,0
+Isla Mujeres,468,Bahia Tolok,2302,8.5,8.6,4,1,2,1,6,1,11,1,4,1,4,1,6
+Loreto,279,Hotel Santa Fe Loreto by Villa Group,1837,8.1,8.4,4,1,1,1,5,1,10,1,2,1,3,1,2
+Loreto,157,Posada del Cortes,1719,9.0,9.1,3,0,0,1,6,1,18,0,0,1,2,1,5
+Loreto,164,Sukasa Bungalows,1873,8.8,8.8,0,1,2,1,2,1,5,0,0,0,0,1,3
+Loreto,384,Hotel Oasis,2534,8.0,8.4,4,1,3,1,7,1,13,1,5,1,3,1,8
+Loreto,3,Hotel Duve Coral,558,8.3,8.0,0,0,0,1,1,1,4,0,0,0,0,0,0
+Loreto,133,Hacienda Suites Loreto,1835,8.0,8.3,3,0,0,1,3,1,2,0,0,1,1,1,1
+Loreto,219,La Mision Loreto,3587,8.7,9.3,5,1,1,1,8,1,13,1,4,1,1,1,5
+Loreto,232,Hotel Angra,1233,8.8,8.9,3,1,1,1,1,1,3,0,0,0,0,0,0
+Loreto,149,Bugambilias Suites,1514,9.6,9.7,0,0,0,1,2,1,6,1,1,1,1,1,2
+Loreto,670,Loreto Bay Golf Resort & Spa at Baja,1940,7.5,7.8,5,1,3,1,6,1,12,1,6,1,1,1,2
+Loreto,170,Hotel y R.V. Park El Moro,877,7.3,7.2,0,0,0,1,1,1,4,1,1,1,2,0,0
+Loreto,103,Posada de las Flores Loreto,2492,8.1,8.2,4,1,1,1,8,1,10,0,0,0,0,1,2
+Loreto,10,Loreto La Regional,540,9.0,8.7,0,1,1,1,2,1,1,0,0,1,1,0,0
+Loreto,21,Cabañas Rústicas El Benny By Rotamundos,836,8.7,9.0,0,0,0,0,0,1,2,0,0,1,1,0,0
+Loreto,32,Casa Lobo,598,7.3,7.1,3,0,0,1,1,1,3,1,1,0,0,0,0
+Loreto,17,La chocita,1419,8.7,8.8,0,0,0,1,1,1,3,0,0,1,1,1,3
+Loreto,17,Departamento Z,914,9.8,9.9,3,0,0,1,1,1,3,0,0,1,1,1,2
+Loreto,254,Hotel 1697 Loreto,2330,8.8,8.9,0,0,0,1,1,1,8,0,0,0,0,1,3
+Loreto,15,Villa Puerta Azul at La Casa de Frida,1827,9.3,8.9,3,0,0,1,1,1,2,0,0,0,0,1,2
+Loreto,8,Departamento Y,914,9.4,9.6,3,0,0,1,1,1,3,0,0,1,1,1,2
+Loreto,44,Villa del Palmar at the Islands of Loreto,4974,7.0,7.9,5,1,2,1,10,1,34,1,2,1,7,1,13
+Loreto,59,"OYO Hotel Miramar, Loreto",629,7.1,6.3,2,0,0,1,2,1,2,0,0,0,0,0,0
+Loreto,78,la giganta loft villas,1855,9.2,9.3,3,1,3,1,3,1,4,0,0,0,0,1,2
+Mazunte,101,Hotel Quinto Sol,630,7.9,7.8,0,0,0,1,3,1,2,0,0,1,1,1,1
+Mazunte,78,OceanoMar,2400,9.3,9.2,4,0,0,1,2,0,0,0,0,0,0,0,0
+Mazunte,411,OYO Cabañas Abril,482,6.1,5.9,2,0,0,0,0,0,0,1,1,0,0,0,0
+Mazunte,342,El Eden Bungalows,896,8.3,8.4,0,1,1,1,2,1,2,1,2,1,1,1,1
+Mazunte,132,Hotel Pochote Mazunte,1000,8.1,8.4,3,0,0,1,1,0,0,0,0,1,1,0,0
+Mazunte,502,Casa Mazunte Tierra Viva,1160,8.9,9.1,0,1,1,1,1,1,7,1,3,1,1,1,5
+Mazunte,79,Casa Aditi,1040,9.0,9.0,3,1,1,1,2,0,0,0,0,0,0,1,1
+Mazunte,101,Casa Lu Hotel Boutique,4622,8.1,9.0,4,1,3,1,3,1,7,0,0,0,0,1,2
+Mazunte,150,El Hostal de Ivanna,159,7.2,6.8,0,1,1,1,1,1,1,0,0,1,1,1,1
+Mazunte,320,Cabañas Telayú,1000,8.4,8.4,0,0,0,0,0,0,0,0,0,1,1,1,1
+Mazunte,145,Posada Aketzalli,700,8.7,8.5,0,1,1,1,1,0,0,0,0,0,0,0,0
+Mazunte,25,Casa H Rinconcito Mazunte,750,6.8,7.4,0,0,0,1,1,0,0,0,0,1,1,1,1
+Mazunte,161,Villa Luna de Miel,719,8.8,8.9,2,1,1,1,1,0,0,0,0,0,0,1,1
+Mazunte,13,Hotel Boutique Madre Tierra,2450,7.3,8.2,0,1,1,1,2,1,3,0,0,1,3,0,0
+Mazunte,126,Mexhica-nito Hostel,558,7.0,6.9,0,1,3,0,0,0,0,0,0,0,0,1,1
+Mazunte,10,Una Posada Mas,1490,9.2,8.8,0,0,0,1,2,1,1,0,0,1,1,1,1
+Mazunte,22,Posada Las Tortuguitas,2100,9.0,9.0,2,1,1,0,0,1,1,0,0,0,0,1,1
+Mazunte,105,Posada Nautica,1076,9.2,9.4,3,1,1,1,6,1,9,0,0,1,1,1,2
+Mazunte,36,HOSTAL CASA DEL ANGEL,850,8.3,8.4,3,0,0,1,1,1,1,0,0,1,1,1,1
+Mazunte,14,Casa Aquila Mazunte,800,9.5,9.2,3,1,1,1,3,1,1,0,0,1,1,1,1
+Papantla de Olarte,19,"OYO Hotel Maria Otilia Falla, Papantla",555,7.0,6.3,2,0,0,1,2,1,3,0,0,0,0,0,0
+Papantla de Olarte,18,Hotel Tajin,656,6.5,7.4,3,0,0,1,2,1,2,0,0,1,1,1,1
+Papantla de Olarte,97,"OYO Hotel Totonacapan, Papantla",423,6.6,6.5,2,0,0,0,0,1,3,0,0,0,0,0,0
+Sayulita,28,Casa Makawe ONLY ADULTS,3415,9.0,8.9,4,0,0,1,1,1,3,1,4,0,0,1,4
+Sayulita,182,Don Bonito Hotel,3112,8.6,8.7,4,0,0,1,1,0,0,0,0,0,0,0,0
+Sayulita,849,Hotel Vista Oceana Sayulita,1500,7.6,7.7,4,1,2,1,1,1,2,0,0,1,2,0,0
+Sayulita,138,Sayulita Central Hotel,1295,7.6,8.0,0,1,1,1,1,0,0,0,0,0,0,0,0
+Sayulita,369,Playa Azul Sayulita,1016,8.3,8.1,0,0,0,1,1,1,4,0,0,1,1,0,0
+Sayulita,92,Blue Pepper Beds Sayulita,339,8.1,7.7,3,1,1,1,3,1,4,0,0,0,0,1,1
+Sayulita,131,Casa de la Ballena,2460,9.4,9.7,4,0,0,1,1,1,3,1,1,0,0,1,1
+Sayulita,180,Villas Chulavista,861,8.2,8.0,0,0,0,1,1,1,2,0,0,1,1,0,0
+Sayulita,88,Amanecer,850,8.2,8.2,3,1,1,1,4,1,3,0,0,1,2,1,2
+Sayulita,160,Viajero Sayulita Hostel,2140,8.4,9.0,4,0,0,1,6,1,15,0,0,0,0,1,4
+Sayulita,227,Hotel Villas Sayulita,2500,8.1,8.4,0,0,0,1,2,1,2,1,2,1,1,1,1
+Sayulita,815,Villas Vista Suites,1516,8.4,8.0,0,0,0,1,1,0,0,0,0,1,1,0,0
+Sayulita,344,Junto al Rio Bungalows & Suites,1932,8.4,8.7,0,1,2,1,2,1,1,0,0,1,1,1,2
+Sayulita,41,Nuiya Hoteles Centro,2490,9.2,9.5,0,0,0,1,2,1,3,0,0,1,1,1,1
+Sayulita,63,Ximena Hotel Boutique,2590,8.7,9.0,3,0,0,1,4,1,9,1,3,0,0,1,5
+Sayulita,352,Casa Love,1285,8.4,8.5,0,1,2,1,1,1,3,0,0,1,1,1,2
+Sayulita,356,Casa Pia,1725,8.7,8.8,3,0,0,1,1,1,3,0,0,1,1,0,0
+Sayulita,199,Sayulinda Hotel,2872,8.3,8.5,3,0,0,1,1,1,2,0,0,1,1,1,2
+Sayulita,240,Diamante Hotel Sayulita Only Adults,1800,8.9,9.0,3,0,0,1,2,1,2,0,0,0,0,0,0
+Sayulita,138,Hotel y Suites Los Encantos,1870,8.6,8.8,0,0,0,0,0,1,3,0,0,1,1,1,2
+Sayulita,92,Bungalos Ximena,960,8.4,7.8,3,0,0,1,1,0,0,0,0,1,1,0,0
+Sayulita,120,The Amazing Hostel Sayulita,897,7.7,8.0,0,1,2,1,3,1,13,0,0,1,2,1,3
+Sayulita,437,Selina Sayulita,1514,7.8,8.0,4,0,0,1,2,1,3,1,1,1,1,1,2
+Sayulita,69,Playa Sayulita,1276,7.1,7.5,0,0,0,1,2,1,1,0,0,1,1,0,0
+Sayulita,310,Riad Lola,550,7.9,7.5,0,0,0,0,0,0,0,0,0,1,1,1,2
+Sayulita,93,CASA KANELO,4750,9.0,9.2,3,1,3,1,4,1,3,0,0,1,2,1,4
+Sayulita,15,Mar y Sueños Suites,1574,8.8,8.9,3,1,1,1,2,1,7,0,0,0,0,1,1
+Sayulita,18,Hotel D Alba Sayulita,1030,8.4,8.9,4,0,0,0,0,1,2,0,0,1,2,0,0
+Sayulita,862,Hotel Boutique OZ Sayulita,1714,7.8,8.1,5,0,0,1,3,1,10,1,1,1,2,1,4
+Sayulita,209,AzulPitaya Beach Front Hotel in Sayulita,3937,8.3,8.7,0,1,3,1,8,1,24,1,5,1,3,1,8
+Sayulita,136,Villas Amalia Hotel,1992,8.7,8.9,3,0,0,1,2,1,4,0,0,1,1,1,1
+Sayulita,237,Mar y Sueños,1574,8.7,8.9,3,1,1,1,4,1,15,1,1,1,1,1,4
+Sayulita,290,Amaia Boutique Hotel,2223,8.0,8.2,4,0,0,1,1,1,3,0,0,0,0,0,0
+Sayulita,125,Avela Boutique Hotel,3733,8.7,9.2,5,0,0,1,6,1,18,1,3,0,0,1,4
+Sayulita,255,Hotel Boutique Siete Lunas,4217,7.8,8.7,4,1,2,1,4,1,10,0,0,0,0,1,6
+Sayulita,3,Hacienda Jaqueline,2138,10,10.0,0,0,0,0,0,1,2,0,0,1,2,1,1
+Sayulita,88,My Sisters House - Female only,1345,9.1,9.0,0,1,1,1,2,1,18,0,0,0,0,1,2
+Sayulita,39,Pacific View Sayulita,1488,7.1,7.6,4,1,1,1,1,1,2,0,0,0,0,0,0
+Sisal,4,Cocolitos,996,8.1,8.5,0,0,0,1,1,1,4,0,0,1,1,1,3
+Sisal,52,La Casona de Sisal Hotel,1197,7.6,8.3,4,0,0,1,2,1,6,0,0,1,1,0,0
+Sisal,153,CASA KINICH SISAL,1300,8.5,8.9,0,0,0,1,1,1,2,0,0,1,1,1,4
+Todos Santos,214,Todos Santos Hostel super fast and stable satellite wifi,1049,8.3,8.6,0,1,1,1,4,1,13,0,0,0,0,1,6
+Todos Santos,122,"Gallo Azul, Downtown Loft Style Apartment",1951,8.1,8.3,3,0,0,1,5,1,4,0,0,1,3,1,6
+Todos Santos,53,Hotel Quinta Santa Rosa,4781,8.8,9.4,0,1,1,1,6,1,18,0,0,1,2,1,8
+Todos Santos,79,"Guaycura Boutique Hotel, Beach Club & Spa",5827,8.4,8.7,0,1,1,1,3,1,12,1,2,0,0,1,5
+Todos Santos,148,Perro Surfero-Outsite Todos Santos,2826,8.9,9.1,0,0,0,1,2,1,11,0,0,1,3,1,4
+Todos Santos,74,Paradero Todos Santos - Experience Inclusive,10433,6.9,8.2,5,0,0,1,7,1,15,0,0,0,0,1,4
+Todos Santos,10,Hotel Casa Morelos,2824,6.2,6.5,3,0,0,1,1,1,1,0,0,0,0,0,0
+Todos Santos,148,Hacienda Todos Los Santos,4106,8.9,9.2,5,0,0,1,1,1,3,0,0,1,1,1,1
+Todos Santos,38,Hotel Villas de Todos Santos,6840,8.3,8.8,4,0,0,1,4,1,5,1,6,1,1,1,5
+Todos Santos,57,Villa Bugambilias,1863,7.8,7.8,0,0,0,1,1,1,2,0,0,0,0,1,1
+Todos Santos,237,Hotel Casa Tota,2564,8.2,8.6,5,0,0,1,2,1,3,1,3,1,1,1,2
+Todos Santos,115,Serendipity,3387,8.5,9.1,5,1,1,1,1,1,1,1,1,1,3,1,2
+Tulum,350,Papaya Playa Project,7977,6.4,7.5,5,1,3,1,11,1,17,1,1,1,2,1,5
+Tulum,441,El Paraiso Hotel Tulum,3747,7.9,8.5,3,1,2,1,4,1,12,0,0,1,4,1,6
+Tulum,159,Che Suites Tulum Adults Only,1027,8.7,8.6,3,0,0,1,3,1,9,0,0,0,0,1,4
+Tulum,187,Xkeken Tulum,1245,8.4,8.1,0,0,0,1,1,1,1,0,0,1,1,1,1
+Tulum,731,Mamasan Treehouses & Cabins,2869,8.0,8.4,4,0,0,1,5,1,2,1,1,0,0,1,4
+Tulum,321,Hotel El Capitán Tulum,1230,9.4,9.1,3,1,1,1,3,1,4,1,2,1,1,0,0
+Tulum,93,Encantada Tulum,10369,8.6,9.5,4,1,2,1,6,1,5,1,1,0,0,1,4
+Tulum,176,Casa Ambar Tulum - Great location and access to a Private Cenote & Beach 2 Km Away - Adults Only,2629,7.5,7.4,3,0,0,1,6,1,2,1,1,1,1,0,0
+Tulum,69,Hotel Muaré Tulum,5827,8.7,9.3,0,0,0,1,5,1,5,0,0,0,0,1,3
+Tulum,1.417,Copal Tulum Hotel,2331,8.3,8.3,4,0,0,1,4,1,16,1,1,1,3,0,0
+Tulum,167,Suites Tulum,2829,7.8,7.5,3,1,1,1,5,1,7,0,0,1,1,1,2
+Tulum,1.920,XscapeTulum,1192,8.8,8.7,4,0,0,1,7,1,6,0,0,1,1,1,2
+Tulum,566,LiveTulum,1056,8.8,8.7,3,0,0,1,4,1,1,0,0,1,1,0,0
+Tulum,566,Posada Lamar Tulum Beach Front and Pool,4172,7.8,8.2,3,1,2,1,6,1,7,0,0,1,1,1,1
+Tulum,86,Grand Balam Plaza,51797,8.6,9.0,4,0,0,1,4,1,12,0,0,0,0,1,6
+Tulum,472,Hotel Arcoiris Tulum,717,8.7,8.6,4,0,0,1,5,1,9,0,0,0,0,0,0
+Tulum,543,Ikal Tulum Hotel,4638,7.4,8.1,0,1,2,1,7,1,10,0,0,1,2,1,5
+Tulum,190,Lagoon Boutique Hotel - Adults Only,2104,8.3,7.9,4,0,0,1,7,1,7,1,1,1,1,1,4
+Tulum,247,Kai Tulum,6052,7.4,8.3,4,1,2,1,7,1,9,1,1,1,1,1,8
+Tulum,394,Hotel Boutique TerraNova,2413,9.4,9.4,0,0,0,1,11,1,12,1,1,0,0,1,4
+Tulum,8,Conrad Tulum Riviera Maya,8985,6.9,7.3,0,1,2,1,4,1,17,1,2,1,4,1,4
+Tulum,34,Majaro Hotel Tulum,2960,9.2,9.0,4,0,0,1,1,1,5,0,0,1,4,1,4
+Tulum,394,Aldea Tzunun,686,7.4,6.9,0,0,0,1,1,1,10,0,0,0,0,1,4
+Tulum,224,Posada Malix Pek,675,8.8,8.5,2,0,0,1,6,1,6,0,0,1,1,0,0
+Tulum,37,Zamna Tulúm,1583,8.4,8.2,0,0,0,1,2,1,3,0,0,0,0,0,0
+Tulum,12,Hotel MX tulum,504,8.8,8.7,4,1,1,1,1,1,2,1,2,0,0,0,0
+Tulum,204,Hotel Ko'ox Wenne,648,8.7,8.4,0,0,0,1,2,1,5,0,0,1,1,0,0
+Tulum,160,Yaax Kiin Tulum,810,8.6,8.7,3,0,0,1,3,1,3,0,0,0,0,1,1
+Tulum,362,Casa Colonial Tulum,764,7.0,6.7,4,0,0,1,2,1,4,1,2,1,2,0,0
+Tulum,373,Punta Piedra Beach Posada,2548,7.9,8.3,3,1,2,1,5,1,7,0,0,1,1,1,4
+Tulum,649,Posada del Sol Tulum,2656,7.5,7.8,3,1,3,1,7,1,6,0,0,1,1,1,2
+Tulum,2.926,Mayan Monkey Hotel & Hostel Tulum,2336,8.6,8.5,3,0,0,1,5,1,9,0,0,0,0,1,5
+Tulum,368,Watal Tulum Hotel,1586,8.1,7.7,3,0,0,1,5,1,13,1,1,1,2,1,3
+Tulum,127,L hotelito,956,8.8,8.6,0,0,0,1,2,1,1,0,0,1,2,0,0
+Tulum,240,Hostal Malakai Cabañas and Dorms,448,8.0,7.7,0,0,0,1,2,1,1,0,0,0,0,1,2
+Tulum,115,Intima Resort Tulum Adults Only (Clothing Optional),2391,7.9,8.2,3,0,0,1,6,1,5,1,1,0,0,1,2
+Tulum,705,Habitas Tulum,7252,8.2,9.0,0,1,2,1,8,1,11,0,0,0,0,1,4
+Tulum,148,Los Arrecifes,6973,8.2,8.6,3,1,3,1,5,1,2,1,3,1,3,1,1
+Tulum,78,Esplendor by Wyndham Tulum Nook,1748,8.6,8.3,4,0,0,1,7,1,21,0,0,1,1,1,8
+Tulum,469,Hotel Central Station Tulum,777,9.3,9.1,3,0,0,1,1,1,5,0,0,1,1,0,0
+Tulum,298,Coco Hacienda Tulum - Adults Only,2237,8.8,8.9,0,0,0,1,4,1,12,1,1,0,0,1,1
+Tulum,167,Hotel Nicte Ha Tulum,996,7.8,7.6,0,0,0,1,8,1,14,0,0,1,3,1,9
+Tulum,99,Irie Tulum Boutique Hotel,2044,9.3,9.2,0,0,0,1,7,1,8,1,1,1,2,1,5
+Tulum,171,Chancabañita Tulum,1813,8.1,8.5,3,1,2,1,1,1,2,0,0,0,0,0,0
+Tulum,480,Luna Llena Tulum,884,8.2,8.0,3,1,1,1,8,1,8,0,0,0,0,0,0
+Tulum,16,Luhme Tulum Hostel,896,9.5,8.8,0,0,0,1,2,1,2,0,0,0,0,1,5
+Tulum,388,Cinco Tulum,2715,8.0,8.6,0,1,2,1,5,1,7,0,0,0,0,1,3
+Tulum,746,Una Vida,5714,9.0,9.2,5,0,0,1,7,1,9,1,1,1,3,1,4
+Tulum,225,Cormoran Boutique Hotel & Private Cenote Tulum,2689,8.2,8.3,3,0,0,1,4,1,2,0,0,0,0,0,0
+Tulum,531,Maka Hotel Boutique,1972,8.7,8.6,5,0,0,1,2,1,7,1,1,0,0,1,8
+Tulum,757,Mereva Tulum by Blue Sky,4235,8.0,8.5,4,1,3,1,8,1,15,1,1,1,1,1,5
+Tulum,123,Uman Glamping & Cenote Tulum,2423,8.2,8.6,0,1,1,1,2,1,7,0,0,0,0,1,3
+Tulum,72,Sonido del mar Hotel Boutique & Yoga Loft,1286,8.9,9.1,3,0,0,1,8,1,7,0,0,1,3,1,9
+Tulum,468,Hotelito Azul,11475,7.4,8.1,5,1,3,1,5,1,18,1,1,1,1,1,6
+Tulum,284,Coco Village,2305,9.1,8.9,4,0,0,1,3,1,6,0,0,1,1,1,3
+Tulum,41,Loba Tulum Male Only,2468,7.8,8.1,3,0,0,1,3,1,4,0,0,0,0,1,1
+Tulum,175,La Valise Tulum,10583,8.4,9.4,5,1,2,1,7,1,6,1,1,0,0,1,3
+Tulum,344,Era Hotel & Spa Tulum,2032,8.6,8.8,4,0,0,1,10,1,8,0,0,1,2,1,6
+Tulum,203,Aloft Tulum,1893,8.3,8.3,4,0,0,1,5,1,11,1,4,1,2,1,5
+Tulum,132,Downtown Tulum,1499,7.8,7.6,4,0,0,1,5,1,5,0,0,1,1,1,3
+Tulum,504,Hotel Panacea Tulum,1888,9.1,9.0,4,0,0,1,5,1,14,1,2,1,3,1,3
+Tulum,769,Casa Almendro,932,9.3,9.2,0,0,0,1,1,0,0,0,0,1,1,1,2
+Tulum,738,Selina Tulum,3088,7.0,7.5,4,1,3,1,1,1,14,0,0,1,1,1,3
+Tulum,286,Corazon de Tulum,496,8.3,7.9,0,0,0,1,1,1,3,0,0,0,0,0,0
+Tulum,1.076,Ruta Del Sol,596,7.6,7.3,3,0,0,1,2,1,2,0,0,1,1,0,0
+Tulum,218,Nuee Tulum,1095,7.7,7.3,4,0,0,1,1,1,6,0,0,1,2,1,2
+Tulum,452,Gramercy Tulum,5680,7.4,8.0,5,1,2,1,5,1,3,0,0,0,0,1,1
+Tulum,311,Co.Bañitas,1162,8.2,8.0,0,0,0,1,6,1,10,0,0,0,0,1,3
+Tulum,591,Los Arcos Tulum,1200,8.2,8.0,4,0,0,1,3,1,2,1,3,1,2,0,0
+Tulum,308,Maya Tulum By G Hotels,3927,7.5,7.7,0,1,2,1,6,1,8,0,0,1,1,1,4
+Tulum,359,Villa Las Estrellas Tulum - located at the party zone,2859,7.4,7.7,4,1,2,1,8,1,10,0,0,1,3,1,3
+Tulum,165,Pepem Eco Hotel Tulum at the Jungle near by from at least 10 Cenotes - Adults Only,2291,8.2,8.5,4,0,0,1,2,1,8,0,0,0,0,1,3
+Tulum,388,mangleX eco hotel Tulum,2396,7.4,7.9,3,1,1,1,5,1,3,0,0,1,1,0,0
+Tulum,65,Shambalam Hostel,242,8.5,8.0,0,0,0,1,2,1,2,0,0,0,0,1,2
+Tulum,578,Day tripper Hostel,213,8.2,7.8,0,0,0,1,3,1,11,0,0,0,0,1,5
+Tulum,105,Chill Inn Hostel,350,8.3,8.0,0,0,0,1,1,0,0,0,0,0,0,1,1
+Tulum,7,Aldea Okot,396,8.9,8.1,0,0,0,1,1,1,1,0,0,0,0,1,1
+Tulum,3,2 Bedroom Penthouse with Plunge Pool at Aldea Zama in Tulum,3470,6.7,5.3,0,0,0,1,3,1,2,0,0,1,1,1,1
+Tulum,270,Hotel Casa Santiago Tulum,828,9.0,9.0,3,1,1,1,7,1,13,1,1,1,2,1,1
+Tulum,5,Chillaxing Garden View Casita on the Beach,11057,8.0,7.8,3,1,1,1,1,1,6,1,1,0,0,0,0
+Tulum,38,Eterna Tulum,1250,9.1,8.5,4,0,0,1,9,1,5,1,4,0,0,1,4
+Tulum,241,Kaab Boho,1046,8.0,7.9,3,0,0,1,3,1,2,1,1,1,1,1,1
+Tulum,515,Villas Geminis Boutique Condohotel,1817,8.4,8.6,0,1,1,1,5,1,11,1,2,1,3,1,1
+Tulum,109,Sunset Bungalows,700,9.1,8.8,0,0,0,1,2,0,0,1,1,0,0,1,3
+Tulum,381,Xperience Tulum Hotel,2202,9.1,8.9,0,0,0,1,8,1,11,1,1,1,2,1,2
+Tulum,2.016,Naala Tulum,1865,8.6,8.5,4,0,0,1,9,1,8,1,3,1,3,1,5
+Tulum,326,Hotel Posada 06 Tulum,1315,7.9,7.9,3,0,0,1,8,1,7,0,0,1,2,0,0
+Tulum,311,Layla Tulum - Adults Only,2735,8.7,9.1,4,0,0,1,8,1,7,1,2,1,1,1,3
+Tulum,668,Playa Esperanza Hotel Tulum,2590,7.6,8.1,0,1,2,1,2,1,5,0,0,1,3,1,3
+Tulum,4,Chillaxing Beach Front House,18926,6.9,5.3,2,1,3,1,1,1,10,0,0,1,1,1,1
+Tulum,21,Departamento Colibrí,1775,8.0,7.2,3,0,0,1,3,1,2,1,1,0,0,1,3
+Tulum,6,Cien Corazones,7172,9.2,9.8,0,0,0,1,1,1,5,0,0,1,1,1,4
+Tulum,3,☆Amazing PH Suk Ha☆ La Veleta,3138,9.2,9.3,0,0,0,1,1,1,3,0,0,0,0,1,1
+Tulum,9,Jungla 22 aldea tulum,974,4.7,4.3,0,0,0,1,1,1,3,0,0,0,0,1,2
+Tulum,10,Chiibal,1703,8.5,7.7,3,0,0,1,6,1,3,0,0,1,1,1,1
+Tulum,5,Casa Yaakunah,1840,6.5,6.2,3,0,0,1,4,1,3,0,0,1,1,1,4
+Tulum,17,Ralphs Apartment en Aldea Tulum,1395,8.5,8.8,0,0,0,1,2,1,4,0,0,1,2,1,3
+Tulum,4,Tulum Apartment Boho Vibes,1972,10,9.5,0,0,0,1,4,1,5,0,0,1,2,1,2
+Tulum,4,Aqua jungle,1130,5.6,6.8,0,0,0,1,4,1,5,1,2,1,2,1,6
+Tulum,3,☆King Bed Apartment☆ Suk-Ha ☆ La Veleta,2152,8.3,7.7,0,0,0,1,1,1,2,0,0,0,0,1,1
+Tulum,4,MoMa TULUM,4463,3.8,4.2,0,1,1,1,1,1,2,0,0,0,0,1,1
+Tulum,3,Casa Tribu Luum Zama,4861,7.5,6.7,4,0,0,1,5,1,6,1,1,1,2,1,4
+Tulum,3,Casa Nicte Ha,3646,9.2,9.0,4,0,0,1,6,1,5,1,1,1,2,1,4
+Tulum,90,Ana y Jose Hotel & Spa Tulum,11385,7.8,8.6,5,1,3,1,7,1,10,0,0,1,3,1,7
+Tulum,6,Luxury 2 Bedroom Suite with Private Plunge Pool - Ground Floor,5439,8.8,8.3,3,0,0,1,1,1,4,0,0,1,1,1,1
+Tulum,62,Villas Hunan Hill Tulum,1692,9.2,9.0,4,0,0,1,1,1,7,1,1,1,2,1,5
+Tulum,1.198,Diamante K - Quiet zone of the beach,2311,7.6,8.3,3,1,3,1,7,1,10,0,0,1,3,1,7
+Tulum,314,Casa Agape Boutique Hotel & Beach Club Tulum,1741,8.4,8.7,4,0,0,1,7,1,5,0,0,1,3,1,8
+Tulum,298,La Zebra a Colibri Boutique Hotel,5461,8.6,9.2,5,1,2,1,6,1,1,0,0,1,1,1,3
+Tulum,335,Mi Amor a Colibri Boutique Hotel-Adults Only,6163,8.7,9.2,5,1,2,1,8,1,2,0,0,0,0,1,2
+Tulum,7,"Mya, Elle & Elena Luxury Condos Tulum",3776,8.2,8.0,0,0,0,1,2,1,1,0,0,1,1,1,1
+Tulum,564,Mestizo Gallery,1312,8.5,8.4,4,0,0,1,6,1,2,0,0,1,1,1,5
+Tulum,45,The Waves Tulum,1936,8.4,8.0,0,0,0,1,5,1,8,1,3,1,3,1,7
+Tulum,775,WishTulum,1085,8.3,8.3,3,0,0,1,3,1,1,0,0,0,0,1,1
+Tulum,729,Hotel Bardo - Adults Only,6275,9.1,9.5,5,0,0,1,7,1,13,0,0,1,1,1,8
+Tulum,236,Origen Tulum,1791,7.1,7.3,0,1,1,1,5,1,1,0,0,0,0,0,0
+Tulum,219,Hotel CARPE DIEM Tulum by Nah Hotels,1077,8.6,8.4,3,0,0,1,2,1,8,1,1,1,2,1,3
+Tulum,705,Crucero Tulum,610,7.3,7.2,3,0,0,1,4,1,5,1,1,1,1,1,4
+Tulum,255,Dune Boutique Hotel located at the party zone,12275,8.1,8.9,4,1,2,1,8,1,4,0,0,0,0,1,3
+Tulum,489,Cielo Maya Beach Tulum,2592,8.2,8.6,4,1,3,1,7,1,12,0,0,1,1,1,9
+Tulum,293,Villas H2O,2037,8.9,9.0,3,0,0,1,8,1,1,1,1,1,4,1,1
+Tulum,726,Hotel Zulum,1751,6.8,7.1,4,1,2,1,1,1,3,0,0,1,1,1,1
+Tulum,718,Turquoise Tulum Hotel,1400,8.7,8.6,0,0,0,1,3,1,3,0,0,0,0,1,1
+Tulum,652,Casa Abanico Tulum,498,9.2,9.2,0,0,0,1,4,1,2,0,0,0,0,1,2
+Tulum,120,Alquimia Hotel Boutique,1524,6.8,7.0,4,1,2,1,7,1,9,0,0,1,4,1,4
+Tulum,37,La Diosa Tulum Resort & SPA,2846,6.1,6.8,4,1,2,1,1,1,8,0,0,1,2,1,3
+Tulum,162,Central Park Resort & Spa Tulum,1789,8.1,7.9,5,0,0,1,9,1,8,0,0,1,1,1,4
+Tulum,180,Cielito Hotel Boutique,1096,8.6,8.5,0,0,0,1,2,1,4,0,0,1,2,1,3
+Tulum,6,Vida Tulum Apartment 16 with access to Hotel Bardo,1829,8.8,9.3,3,0,0,1,4,1,11,0,0,1,2,1,4
+Tulum,206,NNAM Tulum,797,7.9,7.7,3,0,0,1,2,1,5,0,0,1,1,1,1
+Tulum,237,Aroma Tulum,1334,7.9,7.8,0,0,0,1,5,1,7,0,0,0,0,1,3
+Tulum,220,Central Park Lagunas,907,8.0,7.3,3,1,1,1,2,1,6,0,0,1,2,1,2
+Tulum,1.084,Joy Tulum - Adults Only.,503,8.8,8.6,3,0,0,1,4,1,3,0,0,0,0,1,2
+Tulum,420,Corazon De Jade,1026,8.7,8.6,3,1,1,1,7,1,15,0,0,1,2,1,3
+Tulum,503,Meteora Stay & Coffeehouse Tulum,1190,8.6,8.7,0,0,0,1,6,1,7,1,1,0,0,1,5
+Tulum,369,Bufo Alvarius,630,7.9,8.1,0,0,0,1,2,1,3,0,0,1,2,1,2
+Tulum,798,Cenotes Casa Tortuga Tulum,855,8.6,8.3,3,0,0,1,1,1,9,0,0,1,2,0,0
+Tulum,9,Vida Tulum Apartment 17 with access to Hotel Bardo,1936,9.4,9.0,0,0,0,1,6,1,15,0,0,1,3,1,4
+Tulum,1.152,Hotel Poc Na Tulum,3402,7.9,8.5,3,1,2,1,2,1,5,0,0,1,1,1,1
+Tulum,591,Coco Tulum Zen Zone Hotel,2142,7.5,8.2,0,1,2,1,6,1,8,0,0,0,0,1,6
+Tulum,161,Serena Tulum - Adults Only,1870,7.9,8.0,3,0,0,1,2,1,3,0,0,0,0,1,1
+Tulum,1.608,Hotel Blanco Tulum,1089,7.9,7.6,3,0,0,1,10,1,9,1,2,0,0,1,2
+Tulum,291,Mundo Maya,796,8.6,8.4,3,0,0,1,4,1,8,0,0,1,2,1,2
+Tulum,100,Sivana Tulum,2694,7.2,7.5,0,1,2,1,3,1,1,0,0,1,1,1,1
+Tulum,139,Amor Rooms,3856,8.2,8.3,0,0,0,1,4,1,10,0,0,1,1,1,2
+Tulum,62,NEST Tulum,7335,8.0,8.8,4,1,2,1,7,1,3,0,0,0,0,1,2
+Tulum,28,ULIV Apartments - Tulum,1939,8.2,8.0,4,0,0,1,1,1,3,0,0,1,1,1,3
+Tulum,402,Amansala Beach Resort,3586,6.3,6.8,4,1,2,1,5,1,9,0,0,1,2,1,4
+Tulum,226,Azura Boutique Hotel,1195,9.3,9.3,4,0,0,1,6,1,13,0,0,1,3,1,3
+Tulum,156,Coco Tulum Beach Club Hotel,4303,7.0,7.7,3,1,2,1,4,1,1,0,0,0,0,1,1
+Tulum,4,Taanah Poolview 1BR apartment Ecochic,1694,8.8,9.0,0,0,0,1,1,1,4,0,0,1,1,1,2
+Tulum,323,Hotel Palma Real,380,7.8,7.1,3,0,0,1,1,1,4,0,0,0,0,0,0
+Tulum,167,Casa Teka,8029,8.6,8.5,4,1,1,1,5,1,4,0,0,1,1,1,3
+Tulum,215,Emotion Tulum Hotel & Hostal,598,7.0,6.7,0,1,1,1,8,1,6,0,0,1,1,1,2
+Tulum,159,Itza La Veleta Tulum,530,6.9,6.4,3,0,0,1,2,1,3,0,0,1,1,1,1
+Tulum,6,Casa Neptuno Tulum,1419,8.8,9.7,0,0,0,1,5,1,3,0,0,1,1,1,1
+Tulum,4,Boho Apartment 7 with access to Hotel Bardo,2072,7.5,7.2,0,0,0,1,7,1,13,0,0,1,2,1,4
+Tulum,6,#3 Amazing Cute Downtown Apartment - Daily/Monthly,908,9.2,9.0,3,0,0,1,5,1,12,0,0,0,0,1,3
+Tulum,20,Cozy Bubble Hotel Chiibal Uh,2492,8.0,7.9,0,0,0,1,6,1,4,0,0,1,4,0,0
+Tulum,50,Vida Silvestre,5180,7.6,7.7,0,0,0,1,5,1,2,0,0,1,2,1,3
+Tulum,7,Deluxe Jungle Studio Terrace XP15,1822,7.9,7.9,0,0,0,1,7,1,13,0,0,1,1,1,2
+Tulum,8,Vida Tulum Apartment 10 with access to Hotel Bardo,2072,9.1,9.4,0,0,0,1,5,1,10,1,1,1,2,1,5
+Tulum,3,Boho Apartment 1 with access to Hotel Bardo,1594,6.7,8.0,0,0,0,1,6,1,9,0,0,1,3,1,4
+Tulum,117,Green Tulum Hotel,638,8.0,7.6,3,0,0,1,1,0,0,0,0,0,0,0,0
+Tulum,5,Departamento en condominio con alberca,1431,9.0,9.0,0,0,0,0,0,1,2,0,0,0,0,1,2
+Tulum,83,El Brujo,2590,9.0,8.8,3,1,1,1,1,1,3,0,0,0,0,1,1
+Tulum,47,Botånica Tulum,1501,9.5,9.5,0,0,0,1,1,1,4,0,0,1,1,1,4
+Tulum,6,"El Vivero, Beautiful Apartment in Tulum A3",1434,8.3,8.0,0,1,1,1,1,1,1,0,0,0,0,1,1
+Tulum,193,Nomade Tulum,8068,7.0,8.2,4,1,2,1,4,1,3,0,0,0,0,1,3
+Tulum,135,Cabanas Tulum- Beach Hotel & Spa,11081,8.5,9.3,4,1,2,1,9,1,15,1,1,0,0,1,6
+Tulum,16,Kiki Tulum,2132,8.9,8.6,3,0,0,1,6,1,5,0,0,1,2,1,2
+Tulum,30,Blue Veleta,1494,7.8,7.7,0,0,0,1,6,1,11,1,1,1,3,1,7
+Tulum,182,Orchid Beach House Adults Only,3269,7.7,8.2,4,1,2,1,5,1,5,0,0,0,0,1,3
+Tulum,111,Ahau Tulum,10344,7.2,8.1,4,1,2,1,5,1,17,1,1,1,1,1,4
+Tulum,216,Hotel Ma'xanab Tulum,11216,8.3,9.2,5,1,2,1,8,1,7,0,0,0,0,1,6
+Tulum,736,Luna Maya,715,7.5,7.0,3,0,0,1,5,1,6,0,0,0,0,0,0
+Tulum,105,Loto Tulum,990,8.6,8.5,3,0,0,1,3,1,5,1,1,1,2,1,2
+Tulum,281,Alma Tulum Hotel Boutique,6553,7.7,8.4,4,1,3,1,7,1,15,0,0,1,4,1,10
+Tulum,120,Hotel Iker,996,8.0,7.9,0,0,0,1,2,1,3,0,0,1,1,0,0
+Tulum,92,Hip Hotel Tulum,5714,7.1,7.6,4,1,2,1,3,1,3,0,0,1,1,1,7
+Tulum,52,Las Mariposas Hotel Tulum,1036,8.3,8.1,3,0,0,1,7,1,8,0,0,0,0,1,5
+Tulum,23,Hotel MT Tulum,928,6.7,6.0,0,0,0,1,2,1,1,0,0,0,0,0,0
+Tulum,4,Itza Hotel Akumal,1793,10,9.7,0,0,0,1,7,1,10,0,0,1,1,1,1
+Tulum,4,Casa Luz Downtown Apartments in Tulum,895,8.1,7.2,3,0,0,1,1,0,0,0,0,0,0,0,0
+Tulum,3,Dreamcatcher Tulum,1659,10,9.7,3,1,1,1,1,1,4,0,0,1,3,1,2
+Tulum,260,Kin Ha Tulum Hotel,1381,8.5,8.7,3,0,0,1,7,1,6,0,0,1,2,0,0
+Tulum,15,Vida Tulum Apartment 14 with access to Hotel Bardo,1913,9.0,9.3,0,0,0,1,6,1,10,0,0,1,2,1,4
+Tulum,8,OASIS YAAXLUM,1150,8.4,8.1,0,0,0,1,6,1,5,1,1,1,2,0,0
+Tulum,127,Katalox Jungle Lofts by Simply Comfort Tulum Centre Rooftop Patio & Pool,990,8.5,8.1,3,0,0,1,2,1,3,0,0,1,1,1,3
+Tulum,36,NEW! Casa Elda WIFI 100 MB,1456,9.6,9.4,3,0,0,1,6,1,4,0,0,0,0,1,5
+Tulum,67,Los Amigos Tulum,1972,8.6,8.6,3,0,0,1,6,1,10,0,0,1,1,1,1
+Tulum,330,Casa Mango,493,9.3,9.2,3,0,0,1,2,1,3,1,1,1,1,1,4
+Tulum,6,Increíble Depa Tuluminati con Alberca 10min Centro,1200,7.5,8.2,0,1,1,1,2,1,3,0,0,1,2,1,4
+Tulum,12,Chiibal-Uh Glamping Tulum,2655,8.1,8.5,0,0,0,1,6,1,5,0,0,1,3,0,0
+Tulum,391,Kanan Tulum - Adults Only,7395,8.1,8.9,0,1,2,1,6,1,12,1,1,0,0,1,4
+Tulum,40,Buda Elementus Tulum,1560,8.4,8.2,3,0,0,1,4,1,5,0,0,1,3,1,4
+Tulum,6,SELVA TULUM DEPT A3,1165,9.2,9.2,0,0,0,1,2,1,3,0,0,0,0,1,4
+Tulum,7,#4 Fabulous Cute Downtown Apartment Daily/Monthly,908,8.9,9.3,3,0,0,1,5,1,9,0,0,0,0,1,4
+Tulum,7,Private rooftop pool Penthouse,2208,8.9,8.7,3,0,0,1,6,1,4,1,1,1,1,1,2
+Tulum,38,ARUNA - LUXURY STUDIOS and APARTMENTS,2655,8.6,8.1,0,0,0,1,6,1,3,0,0,1,2,1,2
+Tulum,5,Aldea Zama Studios by Andiani Travel,962,7.5,7.4,3,0,0,0,0,0,0,0,0,0,0,0,0
+Tulum,18,Casa Cotorro Best Tulum Adventures,1101,9.4,8.8,3,0,0,1,5,1,3,0,0,0,0,1,2
+Tulum,3,Departamento de la armonía y felicidad con alberca,555,3.3,1.3,0,0,0,1,4,1,4,0,0,1,2,1,1
+Tulum,3,Folklore by Andiani Travel,722,6.2,5.0,3,0,0,1,1,0,0,1,1,0,0,1,1
+Tulum,4,Casa Yaakun Kaab,1793,8.3,8.3,4,0,0,1,6,1,6,0,0,1,3,1,2
+Tulum,286,Straw Hat Hostel & Rooftop Bar,1531,7.9,7.7,0,0,0,1,9,1,17,0,0,1,4,1,11
+Tulum,4,Casa vacacional Tulum,1076,7.5,7.3,0,0,0,0,0,1,2,0,0,1,2,1,1
+Tulum,147,Tulum Nueve,1560,9.2,9.1,0,0,0,1,4,1,3,0,0,1,2,1,2
+Tulum,9,★ VW Tulum ★Private Villa ★ Private Pool & Parking ★,3613,8.6,9.0,4,0,0,1,4,1,8,1,1,1,1,1,3
+Tulum,49,La Casa de Mia Tulum,5298,8.2,8.1,0,1,1,1,5,1,4,0,0,1,2,1,3
+Tulum,6,Omara Tulum By Andiani Travel,1530,8.3,7.8,3,0,0,1,1,0,0,0,0,0,0,0,0
+Tulum,268,Hostal Cha Cha Cha,847,7.9,7.7,0,1,1,1,3,1,5,0,0,1,2,1,4
+Tulum,154,Primitive Rooms Tulum,976,7.0,6.8,3,0,0,1,2,1,1,0,0,0,0,1,2
+Tulum,9,New!! Lovely Studio with exclusive amenities,1480,8.6,8.2,3,0,0,1,1,1,7,0,0,1,2,1,3
+Tulum,6,CASA IMOX - TULUM,3711,7.9,8.2,0,0,0,1,2,1,5,0,0,1,2,1,3
+Tulum,40,Caliza Tulum Hotel,807,7.7,7.4,0,0,0,1,3,1,9,0,0,1,2,0,0
+Tulum,225,Amaka Calma Riviera Tulum,1460,8.4,8.4,4,0,0,1,7,1,10,0,0,1,2,1,1
+Tulum,449,Zenses Wellness and Yoga Resort - Adults Only,3534,8.8,8.7,4,0,0,1,7,1,5,0,0,0,0,0,0
+Tulum,98,Sanara Tulum,8218,7.7,8.7,4,1,2,1,8,1,15,0,0,1,4,1,6
+Tulum,266,Tulum Banana Hostel,1413,7.7,7.3,0,0,0,1,6,1,17,0,0,0,0,1,12
+Tulum,36,Kore Tulum Retreat & Spa Resort All Inclusive - Adults Only,11395,6.5,7.5,5,1,1,1,5,1,20,1,1,0,0,1,7
+Tulum,146,Latino Hotel Boutique,1341,9.2,9.1,3,0,0,1,7,1,11,0,0,1,2,1,2
+Tulum,3,HIPHIPSTAY - The Pablo Escobar Villa,2958,7.5,7.0,3,0,0,1,6,1,7,0,0,1,1,1,4
+Tulum,6,NEW! ☆King Bed Apartment☆ Aldea Zamá ☆,2474,9.6,9.3,3,0,0,1,1,1,1,0,0,0,0,1,2
+Tulum,193,Radhoo Tulum,7042,8.4,8.9,4,0,0,1,8,1,6,0,0,0,0,1,4
+Tulum,173,Cabañas La Luna,4881,8.4,8.7,3,1,2,1,3,1,6,1,1,1,3,1,4
+Tulum,88,Be Tulum Beach & Spa Resort,11714,6.7,8.2,5,1,3,1,4,1,5,0,0,0,0,1,1
+Tulum,16,Azul Maya,2391,8.1,7.8,3,0,0,0,0,1,4,0,0,1,2,1,2
+Tulum,73,posada tumben ka´a,550,9.4,9.1,0,0,0,1,1,1,4,0,0,1,2,1,2
+Tulum,4,Halaken Tulum Condo Eco Chic,1195,7.5,8.2,3,1,1,1,1,1,10,0,0,0,0,1,2
+Tulum,46,Casa en el Arbol WIFI 100MB!,3155,9.4,9.5,4,0,0,1,6,1,3,0,0,1,1,1,3
+Tulum,6,Estudio Jaguar Tulum central park lagunas,2590,8.3,9.2,0,0,0,1,1,1,5,0,0,0,0,1,2
+Tulum,3,Phimai Fuego by Andiani Travel,1498,9.2,8.0,0,1,1,1,1,1,2,1,1,0,0,1,2
+Tulum,3,"El vivero,Beautiful Apartment in Tulum A1",1434,10,9.7,0,0,0,1,1,1,1,0,0,0,0,1,1
+Tulum,39,Hotel Cristina,1200,6.0,5.4,0,0,0,1,5,1,4,0,0,0,0,1,1
+Tulum,102,Casa Babel Hostel,1793,6.0,5.8,0,0,0,1,1,1,2,0,0,0,0,1,1
+Tulum,16,The Castle Of Tulum,976,9.4,9.5,0,0,0,1,2,1,2,0,0,1,1,0,0
+Tulum,11,Suites at TreeTops Tulum,1562,9.8,9.3,3,0,0,1,1,1,3,0,0,1,1,0,0
+Tulum,287,Caleta Tankah,2635,7.7,8.0,3,1,2,1,4,1,2,0,0,1,2,1,2
+Tulum,178,Villas Akalan,1035,8.2,8.5,3,0,0,1,5,1,2,1,1,1,2,1,1
+Tulum,290,Zendero Tulum,1285,8.0,7.9,4,0,0,1,8,1,7,0,0,1,2,1,2
+Tulum,345,Caribeña,1518,9.2,9.2,0,0,0,1,6,1,5,0,0,1,1,1,3
+Tulum,46,Nahouse Jungle Lodges,1825,9.2,9.3,0,0,0,1,2,1,1,0,0,0,0,1,4
+Tulum,55,Lo Nuestro Petit Hotel Tulum,848,8.0,7.6,3,0,0,1,3,1,1,0,0,0,0,0,0
+Tulum,395,The Strabon Tulum,843,8.4,8.3,4,0,0,1,8,1,8,0,0,1,2,1,4
+Tulum,11,LAGUNAS CENTRAL PARK High tech studio with backyard / Pool & Gym at condo! 2 pax,984,9.8,9.2,0,0,0,1,3,1,4,0,0,0,0,1,1
+Tulum,308,Harmony Glamping Boutique Hotel and Yoga,686,7.8,8.1,3,0,0,1,6,1,6,0,0,1,1,0,0
+Tulum,581,Hotel Uolis Nah,1721,8.7,8.6,3,0,0,1,7,1,9,0,0,1,2,1,3
+Tulum,10,Casa Bohemia,797,8.4,7.6,0,0,0,1,4,1,1,0,0,1,1,1,1
+Tulum,83,Tulum Nah,802,8.6,8.3,3,0,0,1,5,1,3,1,4,1,2,0,0
+Tulum,11,Loft open space Tulum,1165,8.6,8.5,3,0,0,1,2,1,3,0,0,0,0,1,1
+Tulum,246,MISTIQ Tulum Luxury Condos,1713,8.6,8.3,4,0,0,1,9,1,9,1,4,1,2,1,5
+Tulum,512,Casa Malca,12851,7.8,8.8,5,1,2,1,6,1,12,0,0,1,4,1,5
+Tulum,210,Hotel Tiki Tiki Tulum,2860,9.2,9.2,4,0,0,1,9,1,22,1,1,1,2,1,8
+Tulum,340,Huaya Camp,1856,8.8,8.9,3,0,0,1,4,1,14,0,0,1,2,1,3
+Tulum,378,Ariché Tulum Hotel & Hostal,1022,8.7,8.7,0,0,0,1,2,1,3,0,0,1,2,1,2
+Tulum,196,Alaya Tulum,6359,8.3,9.0,4,1,2,1,7,1,13,0,0,1,1,1,5
+Tulum,412,Alea Tulum by Blue Sky,4430,8.6,9.1,4,1,4,1,9,1,15,0,0,0,0,1,6
+Tulum,8,Vida Tulum Apartment 12 with access to Hotel Bardo,1676,10,9.7,0,0,0,1,6,1,13,0,0,1,2,1,4
+Tulum,548,Che Tulum Hostel & Bar,1987,8.0,8.3,0,1,1,1,5,1,9,0,0,0,0,1,3
+Tulum,92,Karen's Hotel Tulum,1292,6.1,5.8,0,0,0,1,1,1,2,0,0,1,2,0,0
+Tulum,465,Maria Del Mar Tulum - Adults Only,5470,8.1,8.8,4,1,2,1,9,1,16,1,2,1,1,1,6
+Tulum,701,Tubo Tulum Hostel,319,8.0,8.0,0,0,0,0,0,0,0,0,0,1,1,1,1
+Tulum,112,Casa Violeta,3785,8.1,8.4,3,1,3,1,7,1,5,0,0,1,2,1,3
+Tulum,60,Nerea Tulum,4410,8.8,9.1,4,1,3,1,8,1,18,0,0,1,2,1,8
+Tulum,197,Luxury Condos Macondo Tulum,1888,8.5,8.3,3,0,0,1,2,1,4,1,2,1,2,1,2
+Tulum,767,Elements Tulum Boutique Hotel,1569,8.8,8.7,4,0,0,1,9,1,7,1,1,1,1,0,0
+Tulum,106,Maison Tulum,1101,8.8,8.7,3,0,0,1,3,1,5,0,0,1,1,1,2
+Tulum,277,Chiringuito Tulum,11017,7.6,8.6,4,1,2,1,6,1,14,0,0,1,4,1,8
+Tulum,115,VerdeAmar,1076,9.7,9.6,3,0,0,1,2,1,6,0,0,1,1,0,0
+Tulum,476,Hotel Dos Ceibas Eco Retreat Tulum,3700,7.7,8.2,4,1,2,1,6,1,9,0,0,1,2,1,2
+Tulum,343,Tunich Jungle Cabañas,1195,7.4,7.5,3,1,2,1,8,1,11,0,0,1,2,1,6
+Tulum,292,Casa Coyote Tulum,3034,8.2,7.9,0,1,1,1,6,1,10,0,0,1,2,1,4
+Tulum,226,Hacienda Dos Ojos,1274,8.7,8.5,4,0,0,0,0,1,5,0,0,1,2,1,5
+Tulum,656,Cacao Tulum -Luxury Condos-,1594,7.9,7.7,3,0,0,1,9,1,20,0,0,1,2,1,7
+Tulum,470,O' Tulum Boutique Hotel - Adults Only,3316,7.7,8.0,5,1,2,1,6,1,9,0,0,0,0,1,2
+Tulum,350,Howlita Tulum - Adult Only,1107,8.7,8.8,3,0,0,1,7,1,7,0,0,0,0,1,1
+Tulum,429,Kaab Tulum,1656,8.4,8.6,4,0,0,1,5,1,7,0,0,1,1,1,2
+Tulum,544,Zamas Hotel,5479,8.2,8.7,4,1,3,1,6,1,13,1,2,1,3,1,5
+Tulum,6,Boho Apartment 6 with access to Hotel Bardo,2098,10,9.3,0,0,0,1,6,1,15,0,0,1,2,1,4
+Tulum,268,Pal Mar Glamtainer Tulum,1195,7.7,7.6,3,1,1,1,3,1,2,0,0,0,0,0,0
+Tulum,125,ALDEA JO-YAH,1315,9.5,9.4,3,0,0,1,1,1,4,0,0,1,2,1,1
+Tulum,193,Casa Ganesh Tulum,4080,8.0,8.3,0,1,2,1,7,1,5,0,0,1,1,1,1
+Tulum,21,Alojamiento Casa En Tulum,677,8.5,8.0,3,1,1,1,3,1,4,0,0,1,2,1,4
+Tulum,195,Lobo Inn Tulum,799,8.2,8.1,3,0,0,1,1,1,1,0,0,1,1,1,1
+Tulum,59,Casa Selva de Luz,1395,7.1,6.7,3,0,0,1,2,0,0,0,0,1,1,1,1
+Tulum,364,Villa Pescadores Tulum,5243,8.2,8.8,4,1,3,1,7,1,7,0,0,1,1,1,5
+Tulum,174,Little Gem Hotel Tulum La Veleta,1524,9.2,9.2,4,0,0,1,7,1,10,0,0,1,2,1,2
+Tulum,32,Baklis Deluxe Apartments & Lofts Tulum,1418,9.2,9.2,3,0,0,1,3,1,11,0,0,1,5,1,7
+Tulum,19,Elixir Homes Tulum,611,8.6,8.4,3,0,0,1,7,1,4,0,0,1,1,1,2
+Tulum,250,Hostel Oryx,620,8.8,9.0,0,0,0,1,4,1,10,0,0,0,0,1,5
+Tulum,152,BT Live Tulum located at the party zone,5006,7.5,8.2,4,1,2,1,7,1,3,0,0,1,2,1,5
+Tulum,125,Casa Don Diego,1712,8.7,8.8,3,0,0,1,6,1,4,0,0,1,2,1,1
+Tulum,39,Hostal Del Jaguar,1393,8.3,8.1,0,0,0,1,5,1,5,0,0,1,2,1,6
+Tulum,98,Hotel Sayab Tulum,1325,7.4,7.1,0,0,0,1,3,1,5,1,3,1,3,1,3
+Tulum,16,Penca Blue Hostel,1262,7.3,7.3,0,0,0,1,3,1,3,0,0,1,1,1,5
+Tulum,6,Hotel Chacá,2000,7.9,8.5,5,0,0,1,1,1,3,0,0,1,1,1,3
+Tulum,174,The Beach Tulum,17266,8.5,9.2,5,1,4,1,9,1,15,1,1,0,0,1,7
+Tulum,427,Nativus Glamping & Cenote Tulum,2764,8.1,8.6,0,1,1,1,7,1,8,0,0,0,0,1,2
+Tulum,7,"Attha, Aldea Zama Tulum",1574,7.5,7.1,3,0,0,1,4,1,1,0,0,1,1,1,2
+Tulum,3,Amazing PH - Private ROOF & Jacuzzi - Grupo Ya'zil,2789,10,9.7,4,0,0,1,5,1,9,1,2,1,1,1,4
+Tulum,120,Hotel Panamera,9240,7.6,8.4,4,1,2,1,6,1,4,0,0,0,0,1,2
+Tulum,3,Aldea Zama Cave Mexico 7,1703,10,10.0,3,0,0,1,1,1,7,0,0,1,1,1,3
+Tulum,126,Bayou,996,9.0,8.7,2,0,0,1,2,1,4,1,1,1,1,0,0
+Tulum,6,Lovely 2 bedroom serviced apartment with pool.,1438,9.6,9.3,3,1,1,1,8,1,6,0,0,1,1,1,3
+Tulum,388,Hotel Casa Sofia Tulum with Pool,1036,8.8,8.7,3,0,0,1,4,1,7,0,0,0,0,1,2
+Tulum,651,Mimosa Tulum,1930,9.1,9.1,4,0,0,1,3,1,1,0,0,1,1,1,2
+Tulum,145,Cachito de Cielo Luxury Jungle Lodge,1594,9.0,9.0,4,0,0,1,2,0,0,0,0,0,0,1,1
+Tulum,250,Colorbox beds and rooms by Milenium,1066,9.0,8.7,0,0,0,1,1,1,4,0,0,1,1,1,4
+Tulum,3,Casa Lam Tulum - Deluxe Jungle Suites,795,8.3,8.0,0,0,0,1,2,1,23,1,1,1,1,1,4
+Tulum,473,Hotel Muyu Tulum,1134,8.6,8.7,0,0,0,1,2,1,4,1,1,1,1,0,0
+Tulum,389,Hotel Holistika Tulum,2845,8.5,8.7,4,0,0,1,8,1,8,0,0,1,2,1,2
+Tulum,229,Casa Xanath,1000,8.0,7.9,4,0,0,1,4,0,0,1,1,1,1,0,0
+Tulum,190,Coco Unlimited,8298,7.5,8.2,5,1,2,1,7,1,3,1,1,1,3,1,1
+Tulum,153,Residencia Gorila,1096,7.2,7.0,3,0,0,1,1,1,1,0,0,1,1,1,1
+Tulum,76,Posada 77,398,7.8,7.2,0,1,1,1,2,1,2,0,0,1,1,0,0
+Tulum,110,Las Palapas de Punta Allen,1550,8.9,9.1,0,0,0,1,2,1,7,1,1,1,1,1,1
+Tulum,469,Playa Canek Beachfront Eco Hotel,4518,7.0,7.2,4,1,2,1,5,1,7,0,0,1,1,1,1
+Tulum,45,Teetotum hotel,2241,8.4,8.8,3,0,0,1,2,1,11,0,0,1,4,1,8
+Tulum,208,Delek Tulum located at the party zone,7413,8.0,8.7,0,1,2,1,6,1,11,0,0,1,3,1,4
+Tulum,76,LA TULUMEÑA Boutique Hotel,871,7.6,7.7,3,0,0,1,4,1,4,0,0,1,1,1,3
+Tulum,544,La Palmita Budget Boutique Hotel,896,8.8,8.9,0,0,0,1,6,1,2,0,0,1,1,1,1
+Tulum,531,Pacha Tulum,928,8.5,8.6,4,0,0,1,6,1,7,0,0,1,2,1,3
+Tulum,172,TAAN',1195,7.6,7.6,4,0,0,1,5,1,4,0,0,1,2,0,0
+Tulum,163,Kukulcan by Emotion,697,7.4,7.4,0,0,0,1,4,1,3,1,2,1,2,0,0
+Tulum,131,Tago Tulum by G Hotels,15784,7.9,8.7,5,1,2,1,7,1,4,0,0,1,1,1,4
+Tulum,277,Chavez Eco Beach Camping and Cabañas,1050,8.6,8.9,0,1,2,1,2,1,2,1,4,1,1,1,2
+Tulum,21,Casa Leo,1101,8.5,8.0,3,0,0,1,1,1,3,1,2,1,2,1,2
+Tulum,170,Sueños Tulum,8547,8.3,9.3,4,1,2,1,5,1,3,1,1,1,3,1,4
+Tulum,3,BIT TULUM Villas,2671,7.5,7.7,4,0,0,1,2,1,4,0,0,1,1,1,2
